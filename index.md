@@ -1,7 +1,7 @@
 ## Welcome to Jin Zhang's Page
 
-[Homepage](https://www.ornl.gov/staff-profile/jin-zhang)
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=U-I2QKsAAAAJ&view_op=list_works&sortby=pubdate)
++ [Homepage](https://www.ornl.gov/staff-profile/jin-zhang)
++ [Google Scholar](https://scholar.google.com/citations?hl=en&user=U-I2QKsAAAAJ&view_op=list_works&sortby=pubdate)
 
 
 
@@ -87,12 +87,17 @@
 
 
 ## Journal Links
-[Nature Plants]()
-[The Plant Cell]()
-[New Phytologist]()
-[Plant Physiology]()
++ [Nature Plants](https://www.nature.com/nplants/)
++ [The Plant Cell](http://www.plantcell.org/)
++ [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137)
++ [Plant Physiology](http://www.plantphysiol.org/)
++ [Genome Biology](https://genomebiology.biomedcentral.com/)
++ [Genome Research](https://genome.cshlp.org/)
++ [Plant Biotechnology Journal](https://onlinelibrary.wiley.com/journal/14677652)
++ [Plant Cell & Environment](https://onlinelibrary.wiley.com/journal/13653040)
++ [Biotechnology for Biofuels](https://biotechnologyforbiofuels.biomedcentral.com/)
 
-
-
++ [PNAS](https://www.pnas.org/)
++ [Nature Communications](https://www.nature.com/ncomms/)
 
 
