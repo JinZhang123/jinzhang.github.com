@@ -46,53 +46,43 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 + Yao X, ***<u>Zhang J</u>***, et al. (2017). *Platycladus orientalis* PoKub3 is involved in abiotic stress responses in transgenic *Arabidopsis*. [**Journal of Plant Biology** 60(4): 322-334](https://link.springer.com/article/10.1007/s12374-016-0557-7) (IF2017 = 1.459)
 + Chang E, ***<u>Zhang J</u>***, et al. (2017). Transcriptome differences between 20- and 3,000-year-old *Platycladus orientalis* reveal that ROS are involved in senescence regulation. [**Electronic Journal of Biotechnology** 29: 68-77](https://www.sciencedirect.com/science/article/pii/S0717345817300404) (IF2017 = 1.881)
 + Macaya-Sanz D, ..., ***<u>Zhang J</u>***, et al. (2017) Agronomic performance of Populus deltoides trees engineered for biofuel production. [**Biotechnology for Biofuels** 10(1): 253](https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-017-0934-6) (IF2017 = 5.497)
-+ Li Y, ***<u>Zhang J</u>***, et al.* (2015) Expression and functional analysis of ROP gene family in Populus. [**Forest Research** 30(1): 1-9]  (in Chinese)
-+ Zhang X, ..., ***<u>Zhang J</u>***, et al. (2017) Differences in pollen germination and allergenic proteins among different *Populus* germplasms. [**Scientia Silvae Sinicae** 53(2): 54-64]  (in Chinese)
++ Li Y, ***<u>Zhang J</u>***, et al. (2015) Expression and functional analysis of ROP gene family in *Populus*. [**Forest Research** 30(1): 1-9](https://search.proquest.com/openview/1bbb894b08082aee503166798df05bce/1?pq-origsite=gscholar&cbl=2049649) (in Chinese)
++ Zhang X, ..., ***<u>Zhang J</u>***, et al. (2017) Differences in pollen germination and allergenic proteins among different *Populus* germplasms. [**Scientia Silvae Sinicae** 53(2): 54-64](http://www.linyekexue.net/EN/abstract/abstract7543.shtml)  (in Chinese)
 
+### 2016
++ ***<u>Zhang J</u>#\****, Jia H#, et al. (2016). Molecular evolution and expression divergence of the *Populus euphratica Hsf* genes provide insight into the stress acclimation of desert poplar. [**Scientific Reports** 6: 30050](https://www.nature.com/articles/srep30050) (Corresponding author) (IF2016 = 4.259)
++ Li J#, ***<u>Zhang J</u>#\****, et al. (2016). The *Populus trichocarpa PtHSP17.8* involved in heat and salt stress tolerances. [**Plant Cell Reports** 35(8): 1587-1599](https://link.springer.com/article/10.1007%2Fs00299-016-1973-3) (Co-first author, Corresponding author) (IF2016 = 2.869)
++ Zhang X#, ***<u>Zhang J</u>#\****, et al. (2016). Comparative proteomic analysis of mature pollen in triploid and diploid *Populus deltoides*. [**International Journal of Molecular Sciences** 17(9): 1475](https://www.mdpi.com/1422-0067/17/9/1475) (Co-first author, Corresponding author) (IF2016 = 3.226)
++ Jia H#, Li J#, ***<u>Zhang J</u>***, et al. (2016). Genome-wide survey and expression analysis of the stress-associated protein gene family in desert poplar, *Populus euphratica*. [**Tree Genetics & Genomes** 12(4): 78](https://link.springer.com/article/10.1007/s11295-016-1033-8) (IF2016 = 1.624)
++ Li J#, Jia H#, Han X, ***<u>Zhang J</u>***, et al. (2016). Selection of reliable reference genes for gene expression analysis under abiotic stresses in the desert biomass willow, *Salix psammophila*. [**Frontiers in Plant Science** 7: 1505](https://www.frontiersin.org/articles/10.3389/fpls.2016.01505/full) (IF2016 = 4.291)
++ Jia H, Yang H, Sun P, Li J, ***<u>Zhang J</u>***, et al. (2016). *De novo* transcriptome assembly, development of EST-SSR markers and population genetic analyses for the desert biomass willow, *Salix psammophila*. [**Scientific Reports** 6: 39591](https://www.nature.com/articles/srep39591) (IF2016 = 4.259)
 
+### 2015
++ ***<u>Zhang J</u>***, et al. (2015). *Hsf* and *Hsp* gene families in *Populus*: genome-wide identification, organization and correlated expression during development and in stress responses. [**BMC Genomics** 16(1): 181](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1398-3) (IF2015 = 3.867)
++ ***<u>Zhang J</u>#***, Li Y#, et al. (2015). The heat shock factor gene family in *Salix suchowensis*: a genome-wide survey and expression profiling during development and abiotic stresses. [**Frontiers in Plant Science** 6: 748](https://www.frontiersin.org/articles/10.3389/fpls.2015.00748/full) (IF2015 = 4.495)
++ ***<u>Zhang J</u>#***, Wu L#, et al. (2015). Proteomic analysis and candidate allergenic proteins in *Populus deltoides* CL. ‘2KEN8’ mature pollen. [**Frontiers in Plant Science** 6: 548](https://www.frontiersin.org/articles/10.3389/fpls.2015.00548/full) (IF2015 = 4.495)
++ Zhao T#, ***<u>Zhang J</u>#***, et al. (2015). Expression and functional analysis of WRKY transcription factors in Chinese wild hazel, *Corylus heterophylla* Fisch. [**PLoS One** 10(8): e0135315](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0135315) (Co-first author) (IF2015 = 3.057)
++ Tian F, ..., ***<u>Zhang J</u>\****, Hu J\* (2015). Aldehyde dehydrogenase gene superfamily in *Populus*: organization and expression divergence between paralogous gene pairs. [**PLoS One** 10(4): e0124669](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0124669) (Corresponding author) (IF2015 = 3.057)
++ Tian F, ..., ***<u>Zhang J</u>\****, Hu J\* (2015). Genome-wide identification, classification, and expression analysis of 14-3-3 gene family in *Populus*. [**PLoS One** 10(4): e0123225](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123225) (Corresponding author) (IF2015 = 3.057)
++ Shu W, ..., ***<u>Zhang J</u>***, et al. (2015). A *Populus TIR1* gene family survey reveals differential expression patterns and responses to 1-naphthaleneacetic acid and stress treatments. [**Frontiers in Plant Science** 6: 126](https://www.frontiersin.org/articles/10.3389/fpls.2015.00719/full) (IF2015 = 4.495)
++ Li J, ***<u>Zhang J</u>***, et al. (2015) The effects of *AtFBDL1* on apical meristematic growth of *Arabidopsis thaliana*. [**Forest Research** 28(1):1-7](https://search.proquest.com/openview/30693504af2542aba2212f479956487e/1?pq-origsite=gscholar&cbl=2049649) (in Chinese)
 
+### 2014
++ Chen X#, Zhang J#, Liu Q, Guo W, Zhao T, Ma Q, Wang G* (2014). Transcriptome sequencing and identification of cold tolerance genes in hardy Corylus species (C. heterophylla Fisch) floral buds. PLoS One 9(9): e108604 (Co-first author) (IF2014 = 3.234)
++ Liu B, Zhang J, Wang L, Li J, Zheng H, Chen J*, Lu M* (2014) A survey of Populus PIN-FORMED family genes reveals their diversified expression patterns. Journal of Experimental Botany 65(9): 2437-2448 (IF2014 = 5.526)
++ Liu B, Wang L, Zhang J, Li J, Zheng H, Chen J*, Lu M* (2014) WUSCHEL-related Homeobox genes in Populus tomentosa: diversified expression patterns and a functional similarity in adventitious root formation. BMC Genomics 15(1): 296 (IF2014 = 3.986)
++ Tian F#, Gong J#, Zhang J, Feng Y, Wang G, Guo Q, Wang W* (2014) Overexpression of monoubiquitin improves photosynthesis in transgenic tobacco plants following high temperature stress. Plant Science 226: 92-100 (IF2014 = 3.607)
++ Zhang J, et al. (2014) Expression analysis of class I Clp gene families in poplar. Journal of Nuclear Agricultural Sciences 28(5): 777-783 (in Chinese)
++ Zhang J, et al. (2014) Expression and Functional Analysis of CDPK Gene Family in Populus. Forest Research 27(5):604-611 (in Chinese)
 
-
-
-
-
-
-
-
-
-
-
-======  2016  ======
-27.	Zhang J#*, Jia H#, Li J, Li Y, Lu M, Hu J* (2016). Molecular evolution and expression divergence of the Populus euphratica Hsf genes provide insight into the stress acclimation of desert poplar. Scientific Reports 6: 30050 (Corresponding author) (IF2016 = 4.259)
-26.	Li J#, Zhang J#*, Jia H, Li Y, Xu X, Wang L, Lu M* (2016). The Populus trichocarpa PtHSP17. 8 involved in heat and salt stress tolerances. Plant Cell Reports 35(8): 1587-1599 (Co-first author, Corresponding author) (IF2016 = 2.869)
-25.	Zhang X#, Zhang J#*, Guo Y, Sun P, Jia H, Fan W, Lu M, Hu J* (2016). Comparative proteomic analysis of mature pollen in triploid and diploid Populus deltoides. International Journal of Molecular Sciences 17(9): 1475 (Co-first author, Corresponding author) (IF2016 = 3.226)
-24.	Jia H#, Li J#, Zhang J, Ren Y, Hu J*, Lu M* (2016). Genome-wide survey and expression analysis of the stress-associated protein gene family in desert poplar, Populus euphratica. Tree Genetics & Genomes 12(4): 78 (IF2016 = 1.624)
-23.	Li J#, Jia H#, Han X, Zhang J, Sun P, Lu M, Hu J* (2016). Selection of reliable reference genes for gene expression analysis under abiotic stresses in the desert biomass willow, Salix psammophila. Frontiers in Plant Science 7: 1505 (IF2016 = 4.291)
-22.	Jia H, Yang H, Sun P, Li J, Zhang J, Guo Y, Han X, Zhang G, Lu M, Hu J* (2016). De novo transcriptome assembly, development of EST-SSR markers and population genetic analyses for the desert biomass willow, Salix psammophila. Scientific Reports 6: 39591 (IF2016 = 4.259)
-======  2015  ======
-21.	Zhang J, Liu B, Li J, Zhang L, Wang Y, Zheng H, Lu M*, Chen J* (2015). Hsf and Hsp gene families in Populus: genome-wide identification, organization and correlated expression during development and in stress responses. BMC Genomics 16(1): 181 (IF2015 = 3.867)
-20.	Zhang J#, Li Y#, Jia H, Li J, Huang J, Lu M, Hu J* (2015). The heat shock factor gene family in Salix suchowensis: a genome-wide survey and expression profiling during development and abiotic stresses. Frontiers in Plant Science 6: 748 (IF2015 = 4.495)
-19.	Zhang J#, Wu L#, Fan W, Zhang X, Jia H, Li Y, Yin Y, Hu J*, Lu M (2015). Proteomic analysis and candidate allergenic proteins in Populus deltoides CL. ‘2KEN8’ mature pollen. Frontiers in Plant Science 6: 548 (IF2015 = 4.495)
-18.	Zhao T#, Zhang J#, Liang L, Ma Q, Chen X, Zong J, Wang G* (2015). Expression and functional analysis of WRKY transcription factors in Chinese wild hazel, Corylus heterophylla Fisch. PLoS One 10(8): e0135315 (Co-first author) (IF2015 = 3.057)
-17.	Tian F, Zang J, Wang T, Xie Y, Zhang J*, Hu J* (2015). Aldehyde dehydrogenase gene superfamily in Populus: organization and expression divergence between paralogous gene pairs. PLoS One 10(4): e0124669 (Corresponding author) (IF2015 = 3.057)
-16.	Tian F, Wang T. Xie Y, Zhang J*, Hu J* (2015). Genome-wide identification, classification, and expression analysis of 14-3-3 gene family in Populus. PLoS One 10(4): e0123225 (Corresponding author) (IF2015 = 3.057)
-15.	Shu W, Liu Y, Guo Y, Zhou H, Zhang J, Zhao S*, Lu M* (2015). A Populus TIR1 gene family survey reveals differential expression patterns and responses to 1-naphthaleneacetic acid and stress treatments. Frontiers in Plant Science 6: 126 (IF2015 = 4.495)
-14.	Li J, Zhang J, Liu B, Xu Y, Lu M*, Chen J* (2015) The effects of AtFBDL1 on apical meristematic growth of Arabidopsis thaliana. Forest Research 28(1):1-7 (in Chinese)
-======  2014  ======
-13.	Chen X#, Zhang J#, Liu Q, Guo W, Zhao T, Ma Q, Wang G* (2014). Transcriptome sequencing and identification of cold tolerance genes in hardy Corylus species (C. heterophylla Fisch) floral buds. PLoS One 9(9): e108604 (Co-first author) (IF2014 = 3.234)
-12.	Liu B, Zhang J, Wang L, Li J, Zheng H, Chen J*, Lu M* (2014) A survey of Populus PIN-FORMED family genes reveals their diversified expression patterns. Journal of Experimental Botany 65(9): 2437-2448 (IF2014 = 5.526)
-11.	Liu B, Wang L, Zhang J, Li J, Zheng H, Chen J*, Lu M* (2014) WUSCHEL-related Homeobox genes in Populus tomentosa: diversified expression patterns and a functional similarity in adventitious root formation. BMC Genomics 15(1): 296 (IF2014 = 3.986)
-10.	Tian F#, Gong J#, Zhang J, Feng Y, Wang G, Guo Q, Wang W* (2014) Overexpression of monoubiquitin improves photosynthesis in transgenic tobacco plants following high temperature stress. Plant Science 226: 92-100 (IF2014 = 3.607)
-9.	Zhang J, et al. (2014) Expression analysis of class I Clp gene families in poplar. Journal of Nuclear Agricultural Sciences 28(5): 777-783 (in Chinese)
-8.	Zhang J, et al. (2014) Expression and Functional Analysis of CDPK Gene Family in Populus. Forest Research 27(5):604-611 (in Chinese)
-======  Before 2013  ======
-7.	Zhang J, Li J, Liu B, Zhang L, Chen J*, Lu M* (2013) Genome-wide analysis of the Hsp90 gene family reveals differential expression pattern, localization and heat stress responses in poplar. BMC Genomics 14(1): 532 (IF2013 = 4.041)
-6.	Tian F, Gong J, Zhang J, … Wang W* (2013) Enhanced stability of thylakoid membrane proteins and antioxidant competence contribute to drought stress resistance in the tasg1 wheat stay-green mutant. Journal of Experimental Botany 64(6): 1509-1520 (IF2013 = 5.794)
-5.	Zhang J, Guo Q, Feng Y, Li F, Gong J, Fan Z, Wang W* (2012) Manipulation of monoubiquitin improves salt tolerance in transgenic tobacco. Plant Biology 14(2):315-324 (IF2012 = 2.320)
-4.	Li F, Xing S, Guo Q, Zhao M, Zhang J, Gao Q, Wang G, Wang W* (2011) Drought tolerance through over-expression of the expansin gene TaEXPB23 in transgenic tobacco. Journal of Plant Physiology 168(9): 960-966 (IF2011 = 2.791)
-3.	Wang G, Li F, Zhang J, Zhao M, Hui Z, Wang W* (2010) Overaccumulation of glycine betaine enhances tolerance of the photosynthetic apparatus to drought and heat stress in wheat. Photosynthetica 48(1): 30-41 (IF2010 = 1.016)
-2.	Wang G, Hui Z, Li F, Zhao M, Zhang J, Wang W* (2010) Improvement of heat and drought photosynthetic tolerance in wheat by overaccumulation of glycinebetaine. Plant Biotechnology Reports 4(3): 213-222 (IF2010 = 1.119)
-1.	Guo Q#, Zhang J#, Gao Q, Xing S, Li F, Wang W* (2008) Drought tolerance through overexpression of monoubiquitin in transgenic tobacco. Journal of Plant Physiology 165(16):1745-1755 (Co-first author) (IF2008 = 2.437)
+### Before 2013
++ Zhang J, Li J, Liu B, Zhang L, Chen J*, Lu M* (2013) Genome-wide analysis of the Hsp90 gene family reveals differential expression pattern, localization and heat stress responses in poplar. BMC Genomics 14(1): 532 (IF2013 = 4.041)
++ Tian F, Gong J, Zhang J, … Wang W* (2013) Enhanced stability of thylakoid membrane proteins and antioxidant competence contribute to drought stress resistance in the tasg1 wheat stay-green mutant. Journal of Experimental Botany 64(6): 1509-1520 (IF2013 = 5.794)
++ Zhang J, Guo Q, Feng Y, Li F, Gong J, Fan Z, Wang W* (2012) Manipulation of monoubiquitin improves salt tolerance in transgenic tobacco. Plant Biology 14(2):315-324 (IF2012 = 2.320)
++ Li F, Xing S, Guo Q, Zhao M, Zhang J, Gao Q, Wang G, Wang W* (2011) Drought tolerance through over-expression of the expansin gene TaEXPB23 in transgenic tobacco. Journal of Plant Physiology 168(9): 960-966 (IF2011 = 2.791)
++ Wang G, Li F, Zhang J, Zhao M, Hui Z, Wang W* (2010) Overaccumulation of glycine betaine enhances tolerance of the photosynthetic apparatus to drought and heat stress in wheat. Photosynthetica 48(1): 30-41 (IF2010 = 1.016)
++ Wang G, Hui Z, Li F, Zhao M, Zhang J, Wang W* (2010) Improvement of heat and drought photosynthetic tolerance in wheat by overaccumulation of glycinebetaine. Plant Biotechnology Reports 4(3): 213-222 (IF2010 = 1.119)
++ Guo Q#, Zhang J#, Gao Q, Xing S, Li F, Wang W* (2008) Drought tolerance through overexpression of monoubiquitin in transgenic tobacco. Journal of Plant Physiology 165(16):1745-1755 (Co-first author) (IF2008 = 2.437)
 
 
 
