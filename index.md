@@ -26,6 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 
+Zhang J, et al. (2019) **Overexpression** of a Prefoldin β subunit gene reduces biomass recalcitrance in the bioenergy crop Populus. Plant Biotechnology Journal (doi:10.1111/pbi.13254) (IF2018 = 6.840)
+
+
 ======  2019  ======
 63.	Zhang J, et al. (2019) **Overexpression** of a Prefoldin β subunit gene reduces biomass recalcitrance in the bioenergy crop Populus. Plant Biotechnology Journal (doi:10.1111/pbi.13254) (IF2018 = 6.840)
 62.	Zhang J*, et al. Agronomic performance in field of 27 Populus clones following two 3-year coppice rotations. Global Change Biology Bioenergy (in revision) (IF2018 = 4.849)
