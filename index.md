@@ -19,67 +19,28 @@ Chang E, Zhang J, Yao X, Tang S, Zhao X, Deng N, Shi S, Liu J, Jiang Z (2019) De
 Labbe J, (... +8 authors), Zhang J, et al. (2019) Mediation of plant-mycorrhizal interaction by a lectin receptor-like kinase. **Nature Plants** [5: 676–680](https://www.nature.com/articles/s41477-019-0469-x) (IF2018 = 13.297)
 
 ### 2018
+***Zhang J*** et al.  (2018) Genome-wide association studies and expression-based quantitative trait loci analyses reveal roles of HCT2 in caffeoylquinic acid biosynthesis and its regulation by defense-responsive transcription factors in *Populus*. **New Phytologist** [220: 502–516](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15297) (IF2018 = 7.299)
+Xie M\#, Muchero M\#\*, Bryan A, Yee K, Guo H, ***Zhang J***, et al. (2018) A 5-enolpyruvylshikimate 3-phosphate synthase functions as a transcriptional repressor in *Populus*. **The Plant Cell** [30: 1645-1660](http://www.plantcell.org/content/30/7/1645) (IF2018 = 8.631)
+Muchero W, Sondreli K, Chen J, Urbanowicz B, ***Zhang J***, et al. (2018) Association mapping, transcriptomics, and transient expression identify candidate genes mediating plant-pathogen interactions in a tree. **Proc. Natl. Acad. Sci. U.S.A.** [115(45): 11573-11578](https://www.pnas.org/content/115/45/11573) (IF2018 = 9.580)
+
+
+Zhang J, Xie M, Tuskan G, Muchero W*, Chen J* (2018) Recent advances in the transcriptional regulation of the secondary cell wall biosynthesis pathway in woody plants. Frontiers in Plant Science 9: 1535 (IF2018 = 4.106)
+Zhang J#, Li Y#, Liu B, Wang L*, Zhang L, Hu J, Chen J, Zheng H, Lu M* (2018). Characterization of the Populus Rab family genes and the function of PtRabE1b in salt tolerance. BMC Plant Biology 18(1): 124 (IF2018 = 3.670)
+Zhang J#, Chen J#, Wang L#, (… +5 authors), Zheng H*, Lu M* (2018) AtBET5 is essential for exine pattern formation and apical meristem organization in Arabidopsis. Plant Science 274: 231-241 (IF2018 = 3.785)
+Zhang J#, Zhan T#, Jia H, Wu L, Lu M, Hu J* (2018) Whole-genome resequencing reveals molecular mechanisms of biomass changes in 11-year-old Bt transgenic poplar. Trees – Structure and Function 32: 1609-1620 (IF2018 = 1.799)
+Bryan A#, Zhang J#, (… +8 authors), Tuskan G, Chen J*, Muchero W* (2018). A variable polyglutamine repeat affects subcellular localization and regulatory activity of a Populus ANGUSTIFOLIA. G3-Genes Genomes Genetics 8: 2631-2641 (Co-first author) (IF2018 = 2.630)
+Liu B#, Zhang J#, (… +8 authors), Tuskan G, Lu M*, Oka Y* (2018) PtWOX11 acts as master regulator conducting the expression of key transcription factors to induce de novo shoot organogenesis in poplar. Plant Molecular Biology 98: 389-406 (Co-first author) (IF2018 = 3.928)
+Li J#, Zhang J#, Jia H#, Liu B, Sun P, Hu J, Wang L*, Lu M* (2018). The WUSCHEL-related homeobox 5a (PtoWOX5a) is involved in adventitious root development in poplar. Tree Physiology 38(1): 139-153 (Co-first author) (IF2018 = 3.477)
+Li J#, Zhang J#, Jia H, Lu M, Xin X*, Hu J* (2018) Genome-wide characterization of the sHsp gene family in Salix suchowensis reveals its functions under different abiotic stresses. International Journal of Molecular Sciences 19(10): 3246 (Co-first author) (IF2018 = 4.183)
+Xie M, Zhang J, Tschaplinski T, Tuskan G, Chen J*, Muchero W* (2018) Regulation of lignin biosynthesis and its role in growth-defense tradeoffs. Frontiers in Plant Science 9: 1427 (IF2018 = 4.106)
+Li J#, Jia H#, Zhang J, Sun J, Zhang Y, Lu M, Xin X*, Hu J* (2018) Genome-wide characterization of protein phosphatase 2C genes in Populus euphratica and their expression profiling under multiple abiotic stresses. Tree Genetics & Genomes 14: 80 (IF2018 = 1.862)
+Chang E, Deng N, Zhang J, (… +4 authors), Jiang Z* and Shi S* (2018). Proteome-level analysis of metabolism-and stress-related proteins during seed dormancy and germination in Gnetum parvifolium. Journal of Agricultural and Food Chemistry 66(11): 3019-3029 (IF2018 = 3.571)
+Wang L#, Zhang X#, Zhang J, Fan W, Lu M and Hu J* (2018). Proteomic analysis and identification of possible allergenic proteins in mature pollen of Populus tomentosa International Journal of Molecular Sciences 19(1): E250 (IF2018 = 4.183)
+Tuskan G*, (… +10 authors), Zhang J, Reis N, Chen J, Muchero W (2018) Defining the genetic components of callus formation: A GWAS approach. PLoS One 13(8): e0202519 (IF2018 = 2.776)
+Li J, Jia H, Zhang J, Liu B, Hu J, Wang L, Lu M* (2018) Effect of overexpression of Populus tomentosa WUSCHEL-related homeobox 4 (PtoWOX4a) on the secondary growth of poplar. Scientia Silvae Sinicae 54(2): 52-59 (in Chinese)
 
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### 2019
-Zhang J, et al. (2019) Overexpression of a *Prefoldin β* subunit gene reduces biomass recalcitrance in the bioenergy crop *Populus*. Plant Biotechnology Journal [doi:10.1111/pbi.13254](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13254) (IF2018 = 6.840)
-
-
-
-
-
-- Jin1
-- Jin2
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-
-
-
-======  2019  ======
-63.	Zhang J, et al. (2019) **Overexpression** of a Prefoldin β subunit gene reduces biomass recalcitrance in the bioenergy crop Populus. Plant Biotechnology Journal [doi:10.1111/pbi.13254](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13254) (IF2018 = 6.840)
-62.	Zhang J*, et al. Agronomic performance in field of 27 Populus clones following two 3-year coppice rotations. Global Change Biology Bioenergy (in revision) (IF2018 = 4.849)
-61.	Zhang J, (… +17 authors), Tuskan G, Muchero W* and Chen J* (2019) Overexpression of a serine hydroxymethyltransferase increases biomass production and reduces recalcitrance in the bioenergy crop Populus. Sustainable Energy & Fuels 3(1): 195-207 (IF2018 = 4.912)
-60.	Zhang J, Gao F, Jia H, Hu J, Feng Z* (2019) Molecular response of poplar to single and combined ozone and drought. Science of the Total Environment 655: 1364-1375. (IF2018 = 5.589)
-59.	Jia H#, Zhang J#,*, Li J#, et al. (2019) Genome-wide transcriptomic analysis of a desert willow, Salix psammophila, reveals the function of hub genes SpMDP1 and SpWRKY33 in drought tolerance. BMC Plant Biology 19: 356 (Co-first author, Corresponding author) (IF2018 = 3.670)
-58.	Liu B, Hu J, Zhang J* (2019) Evolutionary divergence of duplicated Hsf genes in Populus. Cells (Corresponding author) (IF2018 = 5.656)
-57.	Li W, Wan X, Yu J, Wang K, Zhang J* (2019) Genome-wide identification, classification and expression analysis of the HSF gene family in Carnation (Dianthus caryophyllus) International Journal of Molecular Sciences (In Press) (IF2018 = 4.183)
-56.	Jia H#, Li J#, Zhang J, Sun P, Lu M, Hu J*. The Salix psammophila SpRLCK1 involved in drought and salt tolerance. Plant Physiology and Biochemistry (doi:10.1016/j.plaphy.2019.09.042) (IF2018 = 3.404)
-55.	Xie M, Zhang J, et al. (2019) Heterologous expression of Populus PtrEPSP-TF in rice triggers transcriptional reprogramming of lignin and secondary cell wall biosynthesis. Plant Direct (In Press)
-54.	Chang E, Zhang J, Yao X, Tang S, Zhao X, Deng N, Shi S, Liu J, Jiang Z (2019) De novo characterization of the Platycladus orientalis transcriptome and analysis of photosynthesis-related genes during aging. Forests 10(5): 393 (IF2018 = 2.116)
-53.	Labbe J, (... +8 authors), Zhang J, et al. (2019) Mediation of plant-mycorrhizal interaction by a lectin receptor-like kinase. Nature Plants 5: 676–680 (IF2018 = 13.297)
-======  2018  ======
-52.	Zhang J, (… +15 authors), Tuskan G, Chen J*, Muchero W* (2018). Genome-wide association studies and expression-based quantitative trait loci analyses reveal roles of HCT2 in caffeoylquinic acid biosynthesis and its regulation by defense-responsive transcription factors in Populus. New Phytologist 220: 502–516 (IF2018 = 7.299)
-51.	Xie M#, Muchero M#*, Bryan A, Yee K, Guo H, Zhang J, (… +21 authors), Chen J* and Tuskan G* (2018). A 5-enolpyruvylshikimate 3-phosphate synthase functions as a transcriptional repressor in Populus. The Plant Cell 30: 1645-1660 (IF2018 = 8.631)
-50.	Muchero W, Sondreli K, Chen J, Urbanowicz B, Zhang J, (… +14 authors), Tuskan G, LeBoldus J* (2018). Association mapping, transcriptomics, and transient expression identify candidate genes mediating plant-pathogen interactions in a tree. Proc. Natl. Acad. Sci. U.S.A. 115(45): 11573-11578 (IF2018 = 9.580)
-49.	Zhang J, Xie M, Tuskan G, Muchero W*, Chen J* (2018) Recent advances in the transcriptional regulation of the secondary cell wall biosynthesis pathway in woody plants. Frontiers in Plant Science 9: 1535 (IF2018 = 4.106)
-48.	Zhang J#, Li Y#, Liu B, Wang L*, Zhang L, Hu J, Chen J, Zheng H, Lu M* (2018). Characterization of the Populus Rab family genes and the function of PtRabE1b in salt tolerance. BMC Plant Biology 18(1): 124 (IF2018 = 3.670)
-47.	Zhang J#, Chen J#, Wang L#, (… +5 authors), Zheng H*, Lu M* (2018) AtBET5 is essential for exine pattern formation and apical meristem organization in Arabidopsis. Plant Science 274: 231-241 (IF2018 = 3.785)
-46.	Zhang J#, Zhan T#, Jia H, Wu L, Lu M, Hu J* (2018) Whole-genome resequencing reveals molecular mechanisms of biomass changes in 11-year-old Bt transgenic poplar. Trees – Structure and Function 32: 1609-1620 (IF2018 = 1.799)
-45.	Bryan A#, Zhang J#, (… +8 authors), Tuskan G, Chen J*, Muchero W* (2018). A variable polyglutamine repeat affects subcellular localization and regulatory activity of a Populus ANGUSTIFOLIA. G3-Genes Genomes Genetics 8: 2631-2641 (Co-first author) (IF2018 = 2.630)
-44.	Liu B#, Zhang J#, (… +8 authors), Tuskan G, Lu M*, Oka Y* (2018) PtWOX11 acts as master regulator conducting the expression of key transcription factors to induce de novo shoot organogenesis in poplar. Plant Molecular Biology 98: 389-406 (Co-first author) (IF2018 = 3.928)
-43.	Li J#, Zhang J#, Jia H#, Liu B, Sun P, Hu J, Wang L*, Lu M* (2018). The WUSCHEL-related homeobox 5a (PtoWOX5a) is involved in adventitious root development in poplar. Tree Physiology 38(1): 139-153 (Co-first author) (IF2018 = 3.477)
-42.	Li J#, Zhang J#, Jia H, Lu M, Xin X*, Hu J* (2018) Genome-wide characterization of the sHsp gene family in Salix suchowensis reveals its functions under different abiotic stresses. International Journal of Molecular Sciences 19(10): 3246 (Co-first author) (IF2018 = 4.183)
-41.	Xie M, Zhang J, Tschaplinski T, Tuskan G, Chen J*, Muchero W* (2018) Regulation of lignin biosynthesis and its role in growth-defense tradeoffs. Frontiers in Plant Science 9: 1427 (IF2018 = 4.106)
-40.	Li J#, Jia H#, Zhang J, Sun J, Zhang Y, Lu M, Xin X*, Hu J* (2018) Genome-wide characterization of protein phosphatase 2C genes in Populus euphratica and their expression profiling under multiple abiotic stresses. Tree Genetics & Genomes 14: 80 (IF2018 = 1.862)
-39.	Chang E, Deng N, Zhang J, (… +4 authors), Jiang Z* and Shi S* (2018). Proteome-level analysis of metabolism-and stress-related proteins during seed dormancy and germination in Gnetum parvifolium. Journal of Agricultural and Food Chemistry 66(11): 3019-3029 (IF2018 = 3.571)
-38.	Wang L#, Zhang X#, Zhang J, Fan W, Lu M and Hu J* (2018). Proteomic analysis and identification of possible allergenic proteins in mature pollen of Populus tomentosa International Journal of Molecular Sciences 19(1): E250 (IF2018 = 4.183)
-37.	Tuskan G*, (… +10 authors), Zhang J, Reis N, Chen J, Muchero W (2018) Defining the genetic components of callus formation: A GWAS approach. PLoS One 13(8): e0202519 (IF2018 = 2.776)
-36.	Li J, Jia H, Zhang J, Liu B, Hu J, Wang L, Lu M* (2018) Effect of overexpression of Populus tomentosa WUSCHEL-related homeobox 4 (PtoWOX4a) on the secondary growth of poplar. Scientia Silvae Sinicae 54(2): 52-59 (in Chinese)
 ======  2017  ======
 35.	Chen J#, Zhang J#, Hu J, Xiong W, Du C*, Lu M* (2017). Integrated regulatory network reveals the early salt tolerance mechanism of Populus euphratica. Scientific Reports 7(1): 6769 (Co-first author) (IF2017 = 4.122)
 34.	Hu J#, Zhang J#, (… +4 authors), Lu M* (2017). An empirical assessment of transgene flow from a Bt transgenic poplar plantation. PLoS One 12(1): e0170201 (Co-first author) (IF2017 = 2.766)
@@ -124,14 +85,3 @@ Zhang J, et al. (2019) Overexpression of a *Prefoldin β* subunit gene reduces b
 
 
 
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JinZhang123/jinzhang.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
