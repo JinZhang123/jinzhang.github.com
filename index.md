@@ -5,8 +5,10 @@ You can use the [editor on GitHub](https://github.com/JinZhang123/jinzhang.githu
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Publications
+(\# Equal contribution; \* Corresponding author)
+
 ### 2019
-+ ***Zhang J***, et al. (2019) Overexpression of a *Prefoldin β* subunit gene reduces biomass recalcitrance in the bioenergy crop *Populus*. [**Plant Biotechnology Journal** (doi:10.1111/pbi.13254)](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13254) (IF2018 = 6.840)
++ <u>***Zhang J***</u>, et al. (2019) Overexpression of a *Prefoldin β* subunit gene reduces biomass recalcitrance in the bioenergy crop *Populus*. [**Plant Biotechnology Journal** (doi:10.1111/pbi.13254)](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13254) (IF2018 = 6.840)
 + ***Zhang J\****, et al. Agronomic performance in field of 27 *Populus* clones following two 3-year coppice rotations. **Global Change Biology Bioenergy** (in revision) (IF2018 = 4.849)
 + ***Zhang J***, et al. (2019) Overexpression of a serine hydroxymethyltransferase increases biomass production and reduces recalcitrance in the bioenergy crop *Populus*. [**Sustainable Energy & Fuels** 3(1): 195-207](https://pubs.rsc.org/en/content/articlelanding/2019/se/c8se00471d#!divAbstract) (IF2018 = 4.912)
 + ***Zhang J***, et al. (2019) Molecular response of poplar to single and combined ozone and drought. [**Science of the Total Environment** 655: 1364-1375](https://www.sciencedirect.com/science/article/pii/S0048969718345510). (IF2018 = 5.589)
