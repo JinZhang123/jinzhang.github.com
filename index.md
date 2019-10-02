@@ -1,8 +1,9 @@
 ## Welcome to Jin Zhang's Page
 
-You can use the [editor on GitHub](https://github.com/JinZhang123/jinzhang.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Homepage](https://www.ornl.gov/staff-profile/jin-zhang)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=U-I2QKsAAAAJ&view_op=list_works&sortby=pubdate)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ## Publications
 (\# Equal contribution; \* Corresponding author)
@@ -83,6 +84,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 + Wang G, Li F, ***<u>Zhang J</u>***, et al. (2010) Overaccumulation of glycine betaine enhances tolerance of the photosynthetic apparatus to drought and heat stress in wheat. [**Photosynthetica** 48(1): 30-41](https://link.springer.com/article/10.1007/s11099-010-0006-7) (IF2010 = 1.016)
 + Wang G, ..., ***<u>Zhang J</u>***, et al. (2010) Improvement of heat and drought photosynthetic tolerance in wheat by overaccumulation of glycinebetaine. [**Plant Biotechnology Reports** 4(3): 213-222](https://link.springer.com/article/10.1007/s11816-010-0139-y) (IF2010 = 1.119)
 + Guo Q#, ***<u>Zhang J</u>#***, Gao Q, Xing S, Li F, Wang W* (2008) Drought tolerance through overexpression of monoubiquitin in transgenic tobacco. [**Journal of Plant Physiology** 165(16):1745-1755](https://www.sciencedirect.com/science/article/pii/S0176161707002738) (Co-first author) (IF2008 = 2.437)
+
+
+## Journal Links
+[Nature Plants]()
+[The Plant Cell]()
+[New Phytologist]()
+[Plant Physiology]()
+
 
 
 
