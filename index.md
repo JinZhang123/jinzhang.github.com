@@ -26,11 +26,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 
-Zhang J, et al. (2019) **Overexpression** of a Prefoldin β subunit gene reduces biomass recalcitrance in the bioenergy crop Populus. Plant Biotechnology Journal (doi:10.1111/pbi.13254) (IF2018 = 6.840)
+Zhang J, et al. (2019) Overexpression of a *Prefoldin β* subunit gene reduces biomass recalcitrance in the bioenergy crop *Populus*. Plant Biotechnology Journal (doi:10.1111/pbi.13254) (IF2018 = 6.840)
 
 
 ======  2019  ======
-63.	Zhang J, et al. (2019) **Overexpression** of a Prefoldin β subunit gene reduces biomass recalcitrance in the bioenergy crop Populus. Plant Biotechnology Journal (doi:10.1111/pbi.13254) (IF2018 = 6.840)
+63.	Zhang J, et al. (2019) **Overexpression** of a Prefoldin β subunit gene reduces biomass recalcitrance in the bioenergy crop Populus. Plant Biotechnology Journal [doi:10.1111/pbi.13254](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13254) (IF2018 = 6.840)
 62.	Zhang J*, et al. Agronomic performance in field of 27 Populus clones following two 3-year coppice rotations. Global Change Biology Bioenergy (in revision) (IF2018 = 4.849)
 61.	Zhang J, (… +17 authors), Tuskan G, Muchero W* and Chen J* (2019) Overexpression of a serine hydroxymethyltransferase increases biomass production and reduces recalcitrance in the bioenergy crop Populus. Sustainable Energy & Fuels 3(1): 195-207 (IF2018 = 4.912)
 60.	Zhang J, Gao F, Jia H, Hu J, Feng Z* (2019) Molecular response of poplar to single and combined ozone and drought. Science of the Total Environment 655: 1364-1375. (IF2018 = 5.589)
