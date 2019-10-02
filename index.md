@@ -107,7 +107,7 @@
 ## Editorial Boards
 + [BMC Plant Biology](https://bmcplantbiol.biomedcentral.com)
 + [BMC Biotechnology](https://bmcbiotechnol.biomedcentral.com)
-+ [Frontiers in Plant Science *Research Topic:* **Biofuels and Bioenergy**](https://www.frontiersin.org/research-topics/10844/biofuels-and-bioenergy)
++ [Frontiers in Plant Science (*Research Topic:* **Biofuels and Bioenergy**)](https://www.frontiersin.org/research-topics/10844/biofuels-and-bioenergy)
 
 
 
