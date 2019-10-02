@@ -6,7 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Publications
 ### 2019
-Zhang J, et al. (2019) Overexpression of a *Prefoldin β* subunit gene reduces biomass recalcitrance in the bioenergy crop *Populus*. Plant Biotechnology Journal [doi:10.1111/pbi.13254](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13254) (IF2018 = 6.840)
+***Zhang J***, et al. (2019) Overexpression of a *Prefoldin β* subunit gene reduces biomass recalcitrance in the bioenergy crop *Populus*. **Plant Biotechnology Journal** ([doi:10.1111/pbi.13254](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13254)) (IF2018 = 6.840)
+62.	***Zhang J\****, et al. Agronomic performance in field of 27 *Populus* clones following two 3-year coppice rotations. **Global Change Biology Bioenergy** (in revision) (IF2018 = 4.849)
+
+
+
+
+
 
 
 
