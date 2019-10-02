@@ -86,7 +86,7 @@
 + Guo Q<sup>#</sup>, ***<u>Zhang J</u><sup>#</sup>***, Gao Q, Xing S, Li F, Wang W* (2008) Drought tolerance through overexpression of monoubiquitin in transgenic tobacco. [**Journal of Plant Physiology** 165(16):1745-1755](https://www.sciencedirect.com/science/article/pii/S0176161707002738) (Co-first author) (IF2008 = 2.437)
 
 
-## Journal Links
+## Journals
 + [Nature Plants](https://www.nature.com/nplants/)
 + [The Plant Cell](http://www.plantcell.org/)
 + [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137)
@@ -98,8 +98,17 @@
 + [Biotechnology for Biofuels](https://biotechnologyforbiofuels.biomedcentral.com/)
 + [Journal of Experimental Botany](https://academic.oup.com/jxb)
 + [Plant & Cell Physiology](https://academic.oup.com/pcp)
++ [BMC Genomics](https://bmcgenomics.biomedcentral.com)
++ [Frontiers in Plant Science](https://www.frontiersin.org/journals/plant-science)
 
 + [PNAS](https://www.pnas.org/)
 + [Nature Communications](https://www.nature.com/ncomms/)
+
+## Editorial Boards
++ [BMC Plant Biology](https://bmcplantbiol.biomedcentral.com)
++ [BMC Biotechnology](https://bmcbiotechnol.biomedcentral.com)
++ [Frontiers in Plant Science *Research Topic:* **Biofuels and Bioenergy**](https://www.frontiersin.org/research-topics/10844/biofuels-and-bioenergy)
+
+
 
 
