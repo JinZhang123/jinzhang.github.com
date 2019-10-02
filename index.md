@@ -96,6 +96,8 @@
 + [Plant Biotechnology Journal](https://onlinelibrary.wiley.com/journal/14677652)
 + [Plant Cell & Environment](https://onlinelibrary.wiley.com/journal/13653040)
 + [Biotechnology for Biofuels](https://biotechnologyforbiofuels.biomedcentral.com/)
++ [Journal of Experimental Botany](https://academic.oup.com/jxb)
++ [Plant & Cell Physiology](https://academic.oup.com/pcp)
 
 + [PNAS](https://www.pnas.org/)
 + [Nature Communications](https://www.nature.com/ncomms/)
