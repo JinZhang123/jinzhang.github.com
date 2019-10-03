@@ -90,7 +90,7 @@
 [![alt text](https://media.springernature.com/w300/springer-static/cover-hires/journal/41477/5/9 "Nature Plants"){:height="110px" width="82.5px"}](https://www.nature.com/nplants/)
 [![alt text](https://www.pnas.org/sites/default/files/styles/large/public/highwire/pnas/116/40.cover-source.jpg?itok=vkOYj0NJ "PNAS"){:height="110px" width="82.5px"}](https://www.pnas.org)
 [![alt text](http://www.plantcell.org/sites/default/files/styles/medium/public/highwire/plantcell/31/9.cover-source.jpg?itok=O1P1BaDZ "Plant Cell"){:height="110px" width="82.5px"}](https://www.plantcell.org)
-[![alt text](http://www.plantphysiol.org/sites/default/files/styles/medium/public/highwire/plantphysiol/181/2.cover-source.jpg?itok=px2fPOnM "Plant Physiol."){:height="110px" width="82.5px"}](https://www.plantphysiol.org)
+[![alt text](http://www.plantphysiol.org/sites/default/files/styles/medium/public/highwire/plantphysiol/181/2.cover-source.jpg?itok=px2fPOnM "Plant Physiology"){:height="110px" width="82.5px"}](https://www.plantphysiol.org)
 [![alt text](https://wol-prod-cdn.literatumonline.com/cms/attachment/0cb170c5-1038-412e-9fd6-eb9538f3083c/nph.v224.2.cover.jpg "New Phytologist"){:height="110px" width="82.5px"}](https://nph.onlinelibrary.wiley.com/journal/14698137)
 [![alt text](https://wol-prod-cdn.literatumonline.com/cms/attachment/421b27b6-a514-4a97-8b75-6ca01681c7b6/pbi.v17.10.cover.gif "Plant Biotechnology Journal"){:height="110px" width="82.5px"}](https://onlinelibrary.wiley.com/journal/14677652)
 [![alt text](https://wol-prod-cdn.literatumonline.com/cms/attachment/21b8dd1c-08f5-42e5-9f05-8814f3ea08ea/tpj.v100.1.cover.gif "The Plant Journal"){:height="110px" width="82.5px"}](https://onlinelibrary.wiley.com/journal/1365313x)
