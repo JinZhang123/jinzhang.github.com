@@ -87,47 +87,26 @@
 
 
 ## Journals
+[![alt text](https://media.springernature.com/w300/springer-static/cover-hires/journal/41477/5/9 "Nature Plants"){:height="110px"}](https://www.nature.com/nplants/)
+[![alt text](https://www.pnas.org/sites/default/files/styles/large/public/highwire/pnas/116/40.cover-source.jpg?itok=vkOYj0NJ "PNAS"){:height="110px"}](https://www.pnas.org)
+[![alt text](http://www.plantcell.org/sites/default/files/styles/medium/public/highwire/plantcell/31/9.cover-source.jpg?itok=O1P1BaDZ "Plant Cell"){:height="110px"}](https://www.plantcell.org)
+[![alt text](http://www.plantphysiol.org/sites/default/files/styles/medium/public/highwire/plantphysiol/181/2.cover-source.jpg?itok=px2fPOnM "Plant Physiol."){:height="110px"}](https://www.plantphysiol.org)
+[![alt text](https://wol-prod-cdn.literatumonline.com/cms/attachment/0cb170c5-1038-412e-9fd6-eb9538f3083c/nph.v224.2.cover.jpg "New Phytologist"){:height="110px"}](https://nph.onlinelibrary.wiley.com/journal/14698137)
+[![alt text](https://wol-prod-cdn.literatumonline.com/cms/attachment/421b27b6-a514-4a97-8b75-6ca01681c7b6/pbi.v17.10.cover.gif "Plant Biotechnology Journal"){:height="110px"}](https://onlinelibrary.wiley.com/journal/14677652)
+[![alt text](https://wol-prod-cdn.literatumonline.com/cms/attachment/21b8dd1c-08f5-42e5-9f05-8814f3ea08ea/tpj.v100.1.cover.gif "The Plant Journal"){:height="110px"}](https://onlinelibrary.wiley.com/journal/1365313x)
+[![alt text](https://wol-prod-cdn.literatumonline.com/cms/attachment/eb67b5e7-119d-4c91-bed5-2f2472a2363e/pce.v42.9.cover.jpg "Plant, Cell & Environment"){:height="110px"}](https://onlinelibrary.wiley.com/journal/13653040)
+[![alt text](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jxb/Issue/70/12/1/m_cover.png?Expires=1570209196&Signature=32u8VuGpEooAPnWHlXab7R8j-OIAeQ8pUWjcSNo3Bw1caOwBNu3Ulqw2tNzN~ULypC3L4sAbdgs68-0HYtdR4Lu-mJYvE-q5IbCMBz6-y5NRMdB6w~IpZGDiri-1iNXPDyEBDWuHl5DYLLCe7INNoi0~cgQVrMHxLNrgRIsZgqcSdzF5Sx~XfVPjcKfRmWx19bSAm5pEGrECwmLEDtecdZKyBZenEcSw72ibTytZ4D10~8gR55zW~Az5JagccLb0yKaopHXuasRZ83Zu5r3xlQ9EdAC8bp2pIhJsSlDdoDxekbq566MfSYwERwaR4za7lUGhWOcUg0L10lWOOj9LPA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA "Journal of Experimental Botany"){:height="110px"}](https://academic.oup.com/jxb)
+[![alt text](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/pcp/Issue/60/9/2/m_pcellphys_60_9cover.png?Expires=1570208779&Signature=wD4QrrknLfUVsnjk5zpTmpqbWifLjjimQ9qKyBdpFgQLWl~h0XEBE8NPqPpsATj19dnfKjFsZbNhKC9vRwsiU-5REa8xZKijP0qchhn5NqzGWW9bjsvWo8P2x9eBJuup2mQT6VAKJHLyT1GQdHaOTE8YrvzGKufysX~mBcbdgVWaSXbftQkWHbgEE6Ce~rwNGYndKKFZCti8BdP3dw8BF4ZhrbBfXc91Sm1ze0~YWTQ3qWEBqB8HWQIjmQ3Z09qEoGtqzEzEAh9jMLspaWu9upcgtkDjz735PeOnABftfHLzjumuFw9sIIzJdUBN5MQMM2PsVX6Vx3KLQmwI0Y6ceQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA "Plant & Cell Physiology"){:height="110px"}](https://academic.oup.com/pcp)
+[![alt text](https://genome.cshlp.org/content/vol29/issue10/home_cover.gif "Genome Research"){:height="110px"}](https://genome.cshlp.org)
+[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa6f7c33d1ba82f8cce520a556a024c0.svg "Nature Communications"){:height="50px"}](https://www.nature.com/ncomms)
 <table>
   <tr>
-    <td><a href="www.nature.com/nplants">Nat. Plants</a></td>
-    <td><a href="www.plantcell.org">Plant Cell</a></td>
-    <td><a href="www.plantphysiol.org">Plant Physiol.</a></td>     
-    <td><a href="nph.onlinelibrary.wiley.com/journal/14698137">New Phytol.</a></td>
-  </tr>
-  <tr>
     <td><a href="genomebiology.biomedcentral.com">Genome Biol.</a></td>
-    <td><a href="genome.cshlp.org">Genome Res.</a></td>
-    <td><a href="onlinelibrary.wiley.com/journal/14677652">Plant Biotech. J.</a></td>
-    <td><a href="onlinelibrary.wiley.com/journal/13653040">Plant Cell Environ.</a></td>   
-  </tr>
-  <tr>
     <td><a href="biotechnologyforbiofuels.biomedcentral.com">Biotech. Biofuels</a></td>
-    <td><a href="academic.oup.com/jxb">J. Exp. Bot.</a></td>
-    <td><a href="academic.oup.com/pcp">Plant Cell Physiol.</a></td>
     <td><a href="bmcgenomics.biomedcentral.com">BMC Genomics</a></td>   
-  </tr>        
-  <tr>
-    <td><a href="www.pnas.org">PNAS</a></td>
-    <td><a href="www.nature.com/ncomms">Nat. Commun.</a></td>
     <td><a href="www.frontiersin.org/journals/plant-science">Front. Plant Sci.</a></td>
- 
-  </tr>    
+   </tr>    
 </table>
-
-
-[![alt text](https://media.springernature.com/w300/springer-static/cover-hires/journal/41477/5/9 "Nature Plants"){:height="120px"}](https://www.nature.com/nplants/)
-[![alt text](https://www.pnas.org/sites/default/files/styles/large/public/highwire/pnas/116/40.cover-source.jpg?itok=vkOYj0NJ "PNAS"){:height="120px"}](https://www.pnas.org)
-[![alt text](http://www.plantcell.org/sites/default/files/styles/medium/public/highwire/plantcell/31/9.cover-source.jpg?itok=O1P1BaDZ "Plant Cell"){:height="120px"}](https://www.plantcell.org)
-[![alt text](http://www.plantphysiol.org/sites/default/files/styles/medium/public/highwire/plantphysiol/181/2.cover-source.jpg?itok=px2fPOnM "Plant Physiol."){:height="120px"}](https://www.plantphysiol.org)
-[![alt text](https://wol-prod-cdn.literatumonline.com/cms/attachment/0cb170c5-1038-412e-9fd6-eb9538f3083c/nph.v224.2.cover.jpg "New Phytologist"){:height="120px"}](https://nph.onlinelibrary.wiley.com/journal/14698137)
-[![alt text](https://genome.cshlp.org/content/vol29/issue10/home_cover.gif "Genome Research"){:height="120px"}](https://genome.cshlp.org)
-[![alt text](https://wol-prod-cdn.literatumonline.com/cms/attachment/421b27b6-a514-4a97-8b75-6ca01681c7b6/pbi.v17.10.cover.gif "Plant Biotechnology Journal"){:height="120px"}](https://onlinelibrary.wiley.com/journal/14677652)
-[![alt text](https://wol-prod-cdn.literatumonline.com/cms/attachment/21b8dd1c-08f5-42e5-9f05-8814f3ea08ea/tpj.v100.1.cover.gif "The Plant Journal"){:height="120px"}](https://onlinelibrary.wiley.com/journal/1365313x)
-[![alt text](https://wol-prod-cdn.literatumonline.com/cms/attachment/eb67b5e7-119d-4c91-bed5-2f2472a2363e/pce.v42.9.cover.jpg "Plant, Cell & Environment"){:height="120px"}](https://onlinelibrary.wiley.com/journal/13653040)
-[![alt text](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jxb/Issue/70/12/1/m_cover.png?Expires=1570209196&Signature=32u8VuGpEooAPnWHlXab7R8j-OIAeQ8pUWjcSNo3Bw1caOwBNu3Ulqw2tNzN~ULypC3L4sAbdgs68-0HYtdR4Lu-mJYvE-q5IbCMBz6-y5NRMdB6w~IpZGDiri-1iNXPDyEBDWuHl5DYLLCe7INNoi0~cgQVrMHxLNrgRIsZgqcSdzF5Sx~XfVPjcKfRmWx19bSAm5pEGrECwmLEDtecdZKyBZenEcSw72ibTytZ4D10~8gR55zW~Az5JagccLb0yKaopHXuasRZ83Zu5r3xlQ9EdAC8bp2pIhJsSlDdoDxekbq566MfSYwERwaR4za7lUGhWOcUg0L10lWOOj9LPA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA "Journal of Experimental Botany"){:height="120px"}](https://academic.oup.com/jxb)
-[![alt text](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/pcp/Issue/60/9/2/m_pcellphys_60_9cover.png?Expires=1570208779&Signature=wD4QrrknLfUVsnjk5zpTmpqbWifLjjimQ9qKyBdpFgQLWl~h0XEBE8NPqPpsATj19dnfKjFsZbNhKC9vRwsiU-5REa8xZKijP0qchhn5NqzGWW9bjsvWo8P2x9eBJuup2mQT6VAKJHLyT1GQdHaOTE8YrvzGKufysX~mBcbdgVWaSXbftQkWHbgEE6Ce~rwNGYndKKFZCti8BdP3dw8BF4ZhrbBfXc91Sm1ze0~YWTQ3qWEBqB8HWQIjmQ3Z09qEoGtqzEzEAh9jMLspaWu9upcgtkDjz735PeOnABftfHLzjumuFw9sIIzJdUBN5MQMM2PsVX6Vx3KLQmwI0Y6ceQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA "Plant & Cell Physiology"){:height="120px"}](https://academic.oup.com/pcp)
-
-[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa6f7c33d1ba82f8cce520a556a024c0.svg "Nature Communications"){:height="50px"}](https://www.nature.com/ncomms)
 
 ## Editorial Boards
 + [BMC Plant Biology](https://bmcplantbiol.biomedcentral.com)
