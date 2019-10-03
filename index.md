@@ -10,6 +10,7 @@
 
 ### 2019
 + ***<u>Zhang J</u>***, et al. (2019) Overexpression of a *Prefoldin β* subunit gene reduces biomass recalcitrance in the bioenergy crop *Populus*. [**Plant Biotechnology Journal** (doi:10.1111/pbi.13254)](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13254) (IF2018 = 6.840)
++ Labbe J, ..., ***<u>Zhang J</u>***, et al. (2019) Mediation of plant-mycorrhizal interaction by a lectin receptor-like kinase. [**Nature Plants** 5: 676–680](https://www.nature.com/articles/s41477-019-0469-x) (IF2018 = 13.297)
 + ***<u>Zhang J</u>***, et al. (2019) Molecular response of poplar to single and combined ozone and drought. [**Science of the Total Environment** 655: 1364-1375](https://www.sciencedirect.com/science/article/pii/S0048969718345510). (IF2018 = 5.589)
 + ***<u>Zhang J</u>***, et al. (2019) Overexpression of a serine hydroxymethyltransferase increases biomass production and reduces recalcitrance in the bioenergy crop *Populus*. [**Sustainable Energy & Fuels** 3(1): 195-207](https://pubs.rsc.org/en/content/articlelanding/2019/se/c8se00471d#!divAbstract) (IF2018 = 4.912)
 + ***<u>Zhang J</u>\****, et al. (2019) Agronomic performance in field of 27 *Populus* clones following two 3-year coppice rotations. [**Global Change Biology Bioenergy**]() (in revision) (IF2018 = 4.849)
@@ -19,7 +20,6 @@
 + Jia H<sup>#</sup>, Li J<sup>#</sup>, ***<u>Zhang J</u>***, et al. (2019) The *Salix psammophila SpRLCK1* involved in drought and salt tolerance. [**Plant Physiology and Biochemistry** (doi:10.1016/j.plaphy.2019.09.042)](https://www.sciencedirect.com/science/article/abs/pii/S0981942819303948) (IF2018 = 3.404)
 + Xie M, ***<u>Zhang J</u>***, et al. (2019) Heterologous expression of *Populus PtrEPSP-TF* in rice triggers transcriptional reprogramming of lignin and secondary cell wall biosynthesis. [**Plant Direct**]() (In Press)
 + Chang E, ***<u>Zhang J</u>***, et al. (2019) *De novo* characterization of the *Platycladus orientalis* transcriptome and analysis of photosynthesis-related genes during aging. [**Forests** 10(5): 393](https://www.mdpi.com/1999-4907/10/5/393) (IF2018 = 2.116)
-+ Labbe J, ..., ***<u>Zhang J</u>***, et al. (2019) Mediation of plant-mycorrhizal interaction by a lectin receptor-like kinase. [**Nature Plants** 5: 676–680](https://www.nature.com/articles/s41477-019-0469-x) (IF2018 = 13.297)
 
 ### 2018
 + ***<u>Zhang J</u>*** et al.  (2018) Genome-wide association studies and expression-based quantitative trait loci analyses reveal roles of HCT2 in caffeoylquinic acid biosynthesis and its regulation by defense-responsive transcription factors in *Populus*. [**New Phytologist** 220: 502–516](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15297) (IF2018 = 7.299)
