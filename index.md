@@ -181,7 +181,6 @@
 
 <table>
   <tr>
-    <td><a href="https://academic.oup.com/dnaresearch/">DNA Research</a></td>
     <td><a href="https://bmcgenomics.biomedcentral.com/">BMC Genomics</a></td>
     <td><a href="https://www.frontiersin.org/journals/plant-science/">Frontiers in Plant Science</a></td>
     <td><a href="https://www.springer.com/life+sciences/forestry/journal/11295">Tree Genetics & Genomes</a></td>
