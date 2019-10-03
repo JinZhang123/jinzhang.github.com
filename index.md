@@ -9,11 +9,11 @@
 (\# Equal contribution; \* Corresponding author)
 
 ### Selected Publications
-+ ***<u>Zhang J</u>***, et al. (2019) Overexpression of a *Prefoldin β* subunit gene reduces biomass recalcitrance in the bioenergy crop *Populus*. [**Plant Biotechnology Journal** (doi:10.1111/pbi.13254)](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13254) (IF2018 = 6.840) 
-+ ***<u>Zhang J</u>*** et al.  (2018) Genome-wide association studies and expression-based quantitative trait loci analyses reveal roles of HCT2 in caffeoylquinic acid biosynthesis and its regulation by defense-responsive transcription factors in *Populus*. [**New Phytologist** 220: 502–516](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15297) (IF2018 = 7.299)
++ ***<u>Zhang J</u>***, et al. (2019) [**Plant Biotechnology Journal** (doi:10.1111/pbi.13254)](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13254) (IF2018 = 6.840) 
++ ***<u>Zhang J</u>*** et al.  (2018) [**New Phytologist** 220: 502–516](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15297) (IF2018 = 7.299)
 + Labbe J, ..., ***<u>Zhang J</u>***, et al. (2019) Mediation of plant-mycorrhizal interaction by a lectin receptor-like kinase. [**Nature Plants** 5: 676–680](https://www.nature.com/articles/s41477-019-0469-x) (IF2018 = 13.297) 
-+ Xie M<sup>#</sup>, Muchero M<sup>#,</sup>\*, Bryan A, Yee K, Guo H, ***<u>Zhang J</u>***, et al. (2018) A 5-enolpyruvylshikimate 3-phosphate synthase functions as a transcriptional repressor in *Populus*. [**The Plant Cell** 30: 1645-1660](http://www.plantcell.org/content/30/7/1645) (IF2018 = 8.631)
-+ Muchero W, Sondreli K, Chen J, Urbanowicz B, ***<u>Zhang J</u>***, et al. (2018) Association mapping, transcriptomics, and transient expression identify candidate genes mediating plant-pathogen interactions in a tree. [**Proc. Natl. Acad. Sci. U.S.A.** 115(45): 11573-11578](https://www.pnas.org/content/115/45/11573) (IF2018 = 9.580)
++ Xie M<sup>#</sup>, Muchero M<sup>#,</sup>\*, Bryan A, Yee K, Guo H, ***<u>Zhang J</u>***, et al. (2018) [**The Plant Cell** 30: 1645-1660](http://www.plantcell.org/content/30/7/1645) (IF2018 = 8.631)
++ Muchero W, Sondreli K, Chen J, Urbanowicz B, ***<u>Zhang J</u>***, et al. (2018) [**Proc. Natl. Acad. Sci. U.S.A.** 115(45): 11573-11578](https://www.pnas.org/content/115/45/11573) (IF2018 = 9.580)
 
 ### Full list of Publications
 <details>
