@@ -133,7 +133,7 @@
   <tr>
     <td>[Plant Physiology](http://www.plantphysiol.org/)</td>
     <td>[Genome Biology](https://genomebiology.biomedcentral.com/)</td>
-    <td>[Genome Research](https://genome.cshlp.org/)</td>
+    <td>http://www.google.com/ "Google"</td>
   </tr>
 </table>
 
