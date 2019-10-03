@@ -29,6 +29,7 @@
 <li>Jia H<sup>#</sup>, Li J<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong>, et al. (2019) The *Salix psammophila SpRLCK1* involved in drought and salt tolerance. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0981942819303948"><b>Plant Physiology and Biochemistry</b> (doi:10.1016/j.plaphy.2019.09.042)</a> (IF2018 = 3.404) </li>
 <li>Xie M, <strong><u><i>Zhang J</i></u></strong>, et al. (2019) Heterologous expression of <i>Populus PtrEPSP-TF</i> in rice triggers transcriptional reprogramming of lignin and secondary cell wall biosynthesis. <b>Plant Direct**]</b> (In Press) </li>
 <li>Chang E, <strong><u><i>Zhang J</i></u></strong>, et al. (2019) <i>De novo</i> characterization of the <i>Platycladus orientalis</i> transcriptome and analysis of photosynthesis-related genes during aging. <a href="https://www.mdpi.com/1999-4907/10/5/393"><b>Forests</b> 10(5): 393</a> (IF2018 = 2.116) </li>
+
 </ul>
 </details>
  
@@ -53,7 +54,8 @@
 <li>Chang E, Deng N, <strong><u><i>Zhang J</i></u></strong>, et al. (2018). Proteome-level analysis of metabolism-and stress-related proteins during seed dormancy and germination in <i>Gnetum parvifolium</i>. <a href="https://pubs.acs.org/doi/10.1021/acs.jafc.7b05001"><b>Journal of Agricultural and Food Chemistry</b> 66(11): 3019-3029</a> (IF2018 = 3.571)</li>
 <li>Wang L<sup>#</sup>, Zhang X<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong>, et al. (2018). Proteomic analysis and identification of possible allergenic proteins in mature pollen of <i>Populus tomentosa</i>. <a href="https://www.mdpi.com/1422-0067/19/1/250"><b>International Journal of Molecular Sciences</b> 19(1): E250</a> (IF2018 = 4.183)</li>
 <li>Tuskan G, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2018) Defining the genetic components of callus formation: A GWAS approach. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202519"><b>PLoS One</b> 13(8): e0202519</a> (IF2018 = 2.776)</li>
-<li>Li J, Jia H, <strong><u><i>Zhang J</i></u></strong>, et al. (2018) Effect of overexpression of <i>Populus tomentosa WUSCHEL-related homeobox 4</i> (<i>PtoWOX4a</i>) on the secondary growth of poplar. <a href="http://www.linyekexue.net/EN/10.11707/j.1001-7488.20180206"><b>Scientia Silvae Sinicae</b> 54(2): 52-59</a> (in Chinese)
+<li>Li J, Jia H, <strong><u><i>Zhang J</i></u></strong>, et al. (2018) Effect of overexpression of <i>Populus tomentosa WUSCHEL-related homeobox 4</i> (<i>PtoWOX4a</i>) on the secondary growth of poplar. <a href="http://www.linyekexue.net/EN/10.11707/j.1001-7488.20180206"><b>Scientia Silvae Sinicae</b> 54(2): 52-59</a> (in Chinese) 
+
 </ul>
 </details>
 
@@ -70,6 +72,7 @@
 <li>Macaya-Sanz D, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2017) Agronomic performance of <i>Populus deltoides</i> trees engineered for biofuel production. <a href="https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-017-0934-6"><b>Biotechnology for Biofuels</b> 10(1): 253</a> (IF2017 = 5.497)</li>
 <li>Li Y, <strong><u><i>Zhang J</i></u></strong>, et al. (2015) Expression and functional analysis of ROP gene family in <i>Populus</i>. <a href="https://search.proquest.com/openview/1bbb894b08082aee503166798df05bce/1?pq-origsite=gscholar&cbl=2049649"><b>Forest Research</b> 30(1): 1-9</a> (in Chinese)</li>
 <li>Zhang X, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2017) Differences in pollen germination and allergenic proteins among different <i>Populus</i> germplasms. <a href="http://www.linyekexue.net/EN/abstract/abstract7543.shtml"><b>Scientia Silvae Sinicae</b> 53(2): 54-64</a>  (in Chinese)
+
 </ul>
 </details>
 
@@ -84,8 +87,27 @@
 <li>Li J<sup>#</sup>, Jia H<sup>#</sup>, Han X, <strong><u><i>Zhang J</i></u></strong>, et al. (2016). Selection of reliable reference genes for gene expression analysis under abiotic stresses in the desert biomass willow, <i>Salix psammophila</i>. <a href="https://www.frontiersin.org/articles/10.3389/fpls.2016.01505/full"><b>Frontiers in Plant Science</b> 7: 1505</a> (IF2016 = 4.291)</li>
 <li>Jia H, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2016). *De novo* transcriptome assembly, development of EST-SSR markers and population genetic analyses for the desert biomass willow, <i>Salix psammophila</i>. <a href="https://www.nature.com/articles/srep39591"><b>Scientific Reports</b> 6: 39591</a>
  (IF2016 = 4.259)
+
 </ul>
 </details>
+
+<details>
+  <summary> 2015 </summary>
+
+<ul>
+<li><strong><u><i>Zhang J</i></u></strong>, et al. (2015). <i>Hsf</i> and <i>Hsp</i> gene families in <i>Populus</i>: genome-wide identification, organization and correlated expression during development and in stress responses. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1398-3"><b>BMC Genomics</b> 16(1): 181</a> (IF2015 = 3.867)</li>
+<li><strong><u><i>Zhang J</i></u></strong><sup>#</sup>, Li Y<sup>#</sup>, et al. (2015). The heat shock factor gene family in <i>Salix suchowensis</i>: a genome-wide survey and expression profiling during development and abiotic stresses. <a href="https://www.frontiersin.org/articles/10.3389/fpls.2015.00748/full"><b>Frontiers in Plant Science</b> 6: 748</a> (IF2015 = 4.495)</li>
+<li><strong><u><i>Zhang J</i></u></strong><sup>#</sup>, Wu L<sup>#</sup>, et al. (2015). Proteomic analysis and candidate allergenic proteins in <i>Populus deltoides</i> CL. ‘2KEN8’ mature pollen. <a href="https://www.frontiersin.org/articles/10.3389/fpls.2015.00548/full"><b>Frontiers in Plant Science</b> 6: 548</a> (IF2015 = 4.495)</li>
+<li>Zhao T<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong><sup>#</sup>, et al. (2015). Expression and functional analysis of WRKY transcription factors in Chinese wild hazel, <i>Corylus heterophylla</i> Fisch. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0135315"><b>PLoS One</b> 10(8): e0135315</a>
+ (Co-first author) (IF2015 = 3.057)</li>
+<li>Tian F, ..., <strong><u><i>Zhang J</i></u></strong>*, Hu J* (2015). Aldehyde dehydrogenase gene superfamily in <i>Populus</i>: organization and expression divergence between paralogous gene pairs. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0124669"><b>PLoS One</b> 10(4): e0124669</a> (Corresponding author) (IF2015 = 3.057)</li>
+<li>Tian F, ..., <strong><u><i>Zhang J</i></u></strong>*, Hu J* (2015). Genome-wide identification, classification, and expression analysis of 14-3-3 gene family in <i>Populus</i>. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123225"><b>PLoS One</b> 10(4): e0123225</a> (Corresponding author) (IF2015 = 3.057)</li>
+<li>Shu W, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2015). A <i>Populus TIR1</i> gene family survey reveals differential expression patterns and responses to 1-naphthaleneacetic acid and stress treatments. <a href="https://www.frontiersin.org/articles/10.3389/fpls.2015.00719/full"><b>Frontiers in Plant Science</b> 6: 126</a> (IF2015 = 4.495)</li>
+<li>Li J, <strong><u><i>Zhang J</i></u></strong>, et al. (2015) The effects of <i>AtFBDL1</i> on apical meristematic growth of <i>Arabidopsis thaliana</i>. <a href="https://search.proquest.com/openview/30693504af2542aba2212f479956487e/1?pq-origsite=gscholar&cbl=2049649"><b>Forest Research</b> 28(1):1-7</a> (in Chinese)
+
+</ul>
+</details>
+
 
 
 
