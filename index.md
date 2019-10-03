@@ -56,7 +56,7 @@
 + Zhang X<sup>#</sup>, ***<u>Zhang J</u><sup>#,</sup>\****, et al. (2016). Comparative proteomic analysis of mature pollen in triploid and diploid *Populus deltoides*. [**International Journal of Molecular Sciences** 17(9): 1475](https://www.mdpi.com/1422-0067/17/9/1475) (Co-first author, Corresponding author) (IF2016 = 3.226)
 + Jia H<sup>#</sup>, Li J<sup>#</sup>, ***<u>Zhang J</u>***, et al. (2016). Genome-wide survey and expression analysis of the stress-associated protein gene family in desert poplar, *Populus euphratica*. [**Tree Genetics & Genomes** 12(4): 78](https://link.springer.com/article/10.1007/s11295-016-1033-8) (IF2016 = 1.624)
 + Li J<sup>#</sup>, Jia H<sup>#</sup>, Han X, ***<u>Zhang J</u>***, et al. (2016). Selection of reliable reference genes for gene expression analysis under abiotic stresses in the desert biomass willow, *Salix psammophila*. [**Frontiers in Plant Science** 7: 1505](https://www.frontiersin.org/articles/10.3389/fpls.2016.01505/full) (IF2016 = 4.291)
-+ Jia H, Yang H, Sun P, Li J, ***<u>Zhang J</u>***, et al. (2016). *De novo* transcriptome assembly, development of EST-SSR markers and population genetic analyses for the desert biomass willow, *Salix psammophila*. [**Scientific Reports** 6: 39591](https://www.nature.com/articles/srep39591) (IF2016 = 4.259)
++ Jia H, ..., ***<u>Zhang J</u>***, et al. (2016). *De novo* transcriptome assembly, development of EST-SSR markers and population genetic analyses for the desert biomass willow, *Salix psammophila*. [**Scientific Reports** 6: 39591](https://www.nature.com/articles/srep39591) (IF2016 = 4.259)
 
 ### 2015
 + ***<u>Zhang J</u>***, et al. (2015). *Hsf* and *Hsp* gene families in *Populus*: genome-wide identification, organization and correlated expression during development and in stress responses. [**BMC Genomics** 16(1): 181](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1398-3) (IF2015 = 3.867)
@@ -83,7 +83,7 @@
 + Li F, ..., ***<u>Zhang J</u>***, et al. (2011) Drought tolerance through over-expression of the expansin gene TaEXPB23 in transgenic tobacco. [**Journal of Plant Physiology** 168(9): 960-966](https://www.sciencedirect.com/science/article/pii/S0176161711000629) (IF2011 = 2.791)
 + Wang G, Li F, ***<u>Zhang J</u>***, et al. (2010) Overaccumulation of glycine betaine enhances tolerance of the photosynthetic apparatus to drought and heat stress in wheat. [**Photosynthetica** 48(1): 30-41](https://link.springer.com/article/10.1007/s11099-010-0006-7) (IF2010 = 1.016)
 + Wang G, ..., ***<u>Zhang J</u>***, et al. (2010) Improvement of heat and drought photosynthetic tolerance in wheat by overaccumulation of glycinebetaine. [**Plant Biotechnology Reports** 4(3): 213-222](https://link.springer.com/article/10.1007/s11816-010-0139-y) (IF2010 = 1.119)
-+ Guo Q<sup>#</sup>, ***<u>Zhang J</u><sup>#</sup>***, Gao Q, Xing S, Li F, Wang W* (2008) Drought tolerance through overexpression of monoubiquitin in transgenic tobacco. [**Journal of Plant Physiology** 165(16):1745-1755](https://www.sciencedirect.com/science/article/pii/S0176161707002738) (Co-first author) (IF2008 = 2.437)
++ Guo Q<sup>#</sup>, ***<u>Zhang J</u><sup>#</sup>***, et al. (2008) Drought tolerance through overexpression of monoubiquitin in transgenic tobacco. [**Journal of Plant Physiology** 165(16):1745-1755](https://www.sciencedirect.com/science/article/pii/S0176161707002738) (Co-first author) (IF2008 = 2.437)
 
 
 ## Journals
@@ -101,13 +101,14 @@
 [![alt text](https://genome.cshlp.org/content/vol29/issue10/home_cover.gif "Genome Research"){:height="110px"}](https://genome.cshlp.org)
 [![alt text](https://static-content.springer.com/cover/journal/13059/20/1.jpg "Genome Biology"){:height="110px"}](https://genomebiology.biomedcentral.com/)
 [![alt text](https://static-content.springer.com/cover/journal/13068/12/1.jpg "Biotechnology for Biofuels"){:height="110px"}](https://biotechnologyforbiofuels.biomedcentral.com/)
-[![alt text](https://static-content.springer.com/cover/journal/12864/20/1.jpg "BMC Genomics"){:height="110px"}](https://bmcgenomics.biomedcentral.com/)
-[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa6f7c33d1ba82f8cce520a556a024c0.svg "Nature Communications"){:height="40px"}](https://www.nature.com/ncomms)
-[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/commsbio/header-4825c736f2454a5e95e350335a4dbf72.svg "Communications Biology"){:height="40px"}](https://www.nature.com/commsbio/)
+
+[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa6f7c33d1ba82f8cce520a556a024c0.svg "Nature Communications"){:height="30px"}](https://www.nature.com/ncomms)
+[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/commsbio/header-4825c736f2454a5e95e350335a4dbf72.svg "Communications Biology"){:height="30px"}](https://www.nature.com/commsbio/)
 
 <table>
   <tr>
-    <td><a href="www.frontiersin.org/journals/plant-science">Front. Plant Sci.</a></td>
+    <td><a href="https://bmcgenomics.biomedcentral.com/">BMC Genomics</a></td>
+    <td><a href="https://www.frontiersin.org/journals/plant-science/">Front. Plant Sci.</a></td>
    </tr>    
 </table>
 
