@@ -102,7 +102,7 @@
 [![alt text](https://static-content.springer.com/cover/journal/13059/20/1.jpg "Genome Biology"){:height="110px" width="82.5px"}](https://genomebiology.biomedcentral.com/)
 [![alt text](https://static-content.springer.com/cover/journal/13068/12/1.jpg "Biotechnology for Biofuels"){:height="110px" width="82.5px"}](https://biotechnologyforbiofuels.biomedcentral.com/)
 
-[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa6f7c33d1ba82f8cce520a556a024c0.svg "Nature Communications"){:height="30px"}](https://www.nature.com/ncomms)   
+[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa6f7c33d1ba82f8cce520a556a024c0.svg "Nature Communications"){:height="30px"}](https://www.nature.com/ncomms)
 [![alt text](https://media.springernature.com/full/nature-cms/uploads/product/commsbio/header-4825c736f2454a5e95e350335a4dbf72.svg "Communications Biology"){:height="30px"}](https://www.nature.com/commsbio/)
 
 <table>
