@@ -116,9 +116,9 @@
 
 
 
-[![alt text](http://www.plantcell.org/sites/default/files/plantcelltop.png "Plant Cell"){:height="120px"}](www.plantcell.org)
-[![alt text](https://www.pnas.org/sites/default/files/logo-pnas-white-header2x.png "PNAS"){:height="120px"}](www.pnas.org)
-[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa7f836a57fbef4ef15c560ab4ce386f.svg "Nature Communications"){:height="120px"}](www.nature.com/ncomms)
+[![alt text](http://www.plantcell.org/sites/default/files/plantcelltop.png "Plant Cell"){:height="80px"}](https://www.plantcell.org)
+[![alt text](https://www.pnas.org/sites/default/files/logo-pnas-white-header2x.png "PNAS"){:height="80px"}](https://www.pnas.org)
+[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa7f836a57fbef4ef15c560ab4ce386f.svg "Nature Communications"){:height="80px"}](https://www.nature.com/ncomms)
 
 
 
