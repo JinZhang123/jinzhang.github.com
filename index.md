@@ -22,7 +22,8 @@
 + Chang E, ***<u>Zhang J</u>***, et al. (2019) *De novo* characterization of the *Platycladus orientalis* transcriptome and analysis of photosynthesis-related genes during aging. [**Forests** 10(5): 393](https://www.mdpi.com/1999-4907/10/5/393) (IF2018 = 2.116) 
 
 <details>
-<summary> 2019 </summary>
+  <summary> 2019 </summary>
+  
   
 + ***<u>Zhang J</u>***, et al. (2019) Overexpression of a *Prefoldin β* subunit gene reduces biomass recalcitrance in the bioenergy crop *Populus*. [**Plant Biotechnology Journal** (doi:10.1111/pbi.13254)](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13254) (IF2018 = 6.840) 
 + Labbe J, ..., ***<u>Zhang J</u>***, et al. (2019) Mediation of plant-mycorrhizal interaction by a lectin receptor-like kinase. [**Nature Plants** 5: 676–680](https://www.nature.com/articles/s41477-019-0469-x) (IF2018 = 13.297) 
@@ -36,9 +37,10 @@
 + Xie M, ***<u>Zhang J</u>***, et al. (2019) Heterologous expression of *Populus PtrEPSP-TF* in rice triggers transcriptional reprogramming of lignin and secondary cell wall biosynthesis. [**Plant Direct**]() (In Press) 
 + Chang E, ***<u>Zhang J</u>***, et al. (2019) *De novo* characterization of the *Platycladus orientalis* transcriptome and analysis of photosynthesis-related genes during aging. [**Forests** 10(5): 393](https://www.mdpi.com/1999-4907/10/5/393) (IF2018 = 2.116) 
 
- </details>
- <details>
-<summary> 2018 </summary>
+</details>
+<details>
+  <summary> 2018 </summary>
+  
   
 + ***<u>Zhang J</u>*** et al.  (2018) Genome-wide association studies and expression-based quantitative trait loci analyses reveal roles of HCT2 in caffeoylquinic acid biosynthesis and its regulation by defense-responsive transcription factors in *Populus*. [**New Phytologist** 220: 502–516](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15297) (IF2018 = 7.299)
 + Xie M<sup>#</sup>, Muchero M<sup>#,</sup>\*, Bryan A, Yee K, Guo H, ***<u>Zhang J</u>***, et al. (2018) A 5-enolpyruvylshikimate 3-phosphate synthase functions as a transcriptional repressor in *Populus*. [**The Plant Cell** 30: 1645-1660](http://www.plantcell.org/content/30/7/1645) (IF2018 = 8.631)
