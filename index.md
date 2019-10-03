@@ -3,15 +3,13 @@
 + [Homepage](https://www.ornl.gov/staff-profile/jin-zhang)
 + [Google Scholar](https://scholar.google.com/citations?hl=en&user=U-I2QKsAAAAJ&view_op=list_works&sortby=pubdate)
 
-
-
 ## Publications
 (\# Equal contribution; \* Corresponding author)
 
 ### Selected Publications
 + ***<u>Zhang J</u>***, et al. (2019) [**Plant Biotechnology Journal** (doi:10.1111/pbi.13254)](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13254) (IF2018 = 6.840) 
 + ***<u>Zhang J</u>*** et al.  (2018) [**New Phytologist** 220: 502–516](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15297) (IF2018 = 7.299)
-+ Labbe J, ..., ***<u>Zhang J</u>***, et al. (2019) Mediation of plant-mycorrhizal interaction by a lectin receptor-like kinase. [**Nature Plants** 5: 676–680](https://www.nature.com/articles/s41477-019-0469-x) (IF2018 = 13.297) 
++ Labbe J, ..., ***<u>Zhang J</u>***, et al. (2019) [**Nature Plants** 5: 676–680](https://www.nature.com/articles/s41477-019-0469-x) (IF2018 = 13.297) 
 + Xie M<sup>#</sup>, Muchero M<sup>#,</sup>\*, Bryan A, Yee K, Guo H, ***<u>Zhang J</u>***, et al. (2018) [**The Plant Cell** 30: 1645-1660](http://www.plantcell.org/content/30/7/1645) (IF2018 = 8.631)
 + Muchero W, Sondreli K, Chen J, Urbanowicz B, ***<u>Zhang J</u>***, et al. (2018) [**Proc. Natl. Acad. Sci. U.S.A.** 115(45): 11573-11578](https://www.pnas.org/content/115/45/11573) (IF2018 = 9.580)
 
@@ -58,6 +56,39 @@
 <li>Li J, Jia H, <strong><u><i>Zhang J</i></u></strong>, et al. (2018) Effect of overexpression of <i>Populus tomentosa WUSCHEL-related homeobox 4</i> (<i>PtoWOX4a</i>) on the secondary growth of poplar. <a href="http://www.linyekexue.net/EN/10.11707/j.1001-7488.20180206"><b>Scientia Silvae Sinicae</b> 54(2): 52-59</a> (in Chinese)
 </ul>
 </details>
+
+<details>
+  <summary> 2017 </summary>
+
+<ul>
+<li>Chen J<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong><sup>#</sup>, et al. (2017). Integrated regulatory network reveals the early salt tolerance mechanism of <i>Populus euphratica</i>. <a href="https://www.nature.com/articles/s41598-017-05240-0"><b>Scientific Reports</b> 7(1): 6769</a>
+ (Co-first author) (IF2017 = 4.122)</li>
+<li>Hu J<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong><sup>#</sup>, et al. (2017). An empirical assessment of transgene flow from a <i>Bt</i> transgenic poplar plantation. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170201"><b>PLoS One</b> 12(1): e0170201</a> (Co-first author) (IF2017 = 2.766)</li>
+<li>Tian F, Chang E, Li Y, Sun P, Hu J, <strong><u><i>Zhang J</i></u></strong>* (2017). Expression and integrated network analyses revealed functional divergence of NHX-type Na<sup>+</sup>/H<sup>+</sup> exchanger genes in poplar. <a href="https://www.nature.com/articles/s41598-017-02894-8"><b>Scientific Reports</b> 7(1): 2607</a> (Corresponding author) (IF2017 = 4.122)</li>
+<li>Yao X, <strong><u><i>Zhang J</i></u></strong>, et al. (2017). <i>Platycladus orientalis</i> PoKub3 is involved in abiotic stress responses in transgenic <i>Arabidopsis</i>. <a href="https://link.springer.com/article/10.1007/s12374-016-0557-7"><b>Journal of Plant Biology</b> 60(4): 322-334</a> (IF2017 = 1.459)</li>
+<li>Chang E, <strong><u><i>Zhang J</i></u></strong>, et al. (2017). Transcriptome differences between 20- and 3,000-year-old <i>Platycladus orientalis</i> reveal that ROS are involved in senescence regulation. <a href="https://www.sciencedirect.com/science/article/pii/S0717345817300404"><b>Electronic Journal of Biotechnology</b> 29: 68-77</a> (IF2017 = 1.881)</li>
+<li>Macaya-Sanz D, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2017) Agronomic performance of <i>Populus deltoides</i> trees engineered for biofuel production. <a href="https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-017-0934-6"><b>Biotechnology for Biofuels</b> 10(1): 253</a> (IF2017 = 5.497)</li>
+<li>Li Y, <strong><u><i>Zhang J</i></u></strong>, et al. (2015) Expression and functional analysis of ROP gene family in <i>Populus</i>. <a href="https://search.proquest.com/openview/1bbb894b08082aee503166798df05bce/1?pq-origsite=gscholar&cbl=2049649"><b>Forest Research</b> 30(1): 1-9</a> (in Chinese)</li>
+<li>Zhang X, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2017) Differences in pollen germination and allergenic proteins among different <i>Populus</i> germplasms. <a href="http://www.linyekexue.net/EN/abstract/abstract7543.shtml"><b>Scientia Silvae Sinicae</b> 53(2): 54-64</a>  (in Chinese)
+</ul>
+</details>
+
+<details>
+  <summary> 2016 </summary>
+
+<ul>
+<li><strong><u><i>Zhang J</i></u></strong><sup>#,</sup>*, Jia H<sup>#</sup>, et al. (2016). Molecular evolution and expression divergence of the <i>Populus euphratica Hsf</i> genes provide insight into the stress acclimation of desert poplar. <a href="https://www.nature.com/articles/srep30050"><b>Scientific Reports</b> 6: 30050</a> (Corresponding author) (IF2016 = 4.259)</li>
+<li>Li J<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong><sup>#,</sup>*, et al. (2016). The <i>Populus trichocarpa PtHSP17.8</i> involved in heat and salt stress tolerances. <a href="https://link.springer.com/article/10.1007%2Fs00299-016-1973-3"><b>Plant Cell Reports</b> 35(8): 1587-1599</a> (Co-first author, Corresponding author) (IF2016 = 2.869)</li>
+<li>Zhang X<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong><sup>#,</sup>*, et al. (2016). Comparative proteomic analysis of mature pollen in triploid and diploid <i>Populus deltoides</i>. <a href="https://www.mdpi.com/1422-0067/17/9/1475"><b>International Journal of Molecular Sciences</b> 17(9): 1475</a> (Co-first author, Corresponding author) (IF2016 = 3.226)</li>
+<li>Jia H<sup>#</sup>, Li J<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong>, et al. (2016). Genome-wide survey and expression analysis of the stress-associated protein gene family in desert poplar, <i>Populus euphratica</i>. [<a href="https://link.springer.com/article/10.1007/s11295-016-1033-8"><b>Tree Genetics & Genomes</b> 12(4): 78</a> (IF2016 = 1.624)</li>
+<li>Li J<sup>#</sup>, Jia H<sup>#</sup>, Han X, <strong><u><i>Zhang J</i></u></strong>, et al. (2016). Selection of reliable reference genes for gene expression analysis under abiotic stresses in the desert biomass willow, <i>Salix psammophila</i>. <a href="https://www.frontiersin.org/articles/10.3389/fpls.2016.01505/full"><b>Frontiers in Plant Science</b> 7: 1505</a> (IF2016 = 4.291)</li>
+<li>Jia H, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2016). *De novo* transcriptome assembly, development of EST-SSR markers and population genetic analyses for the desert biomass willow, <i>Salix psammophila</i>. <a href="https://www.nature.com/articles/srep39591"><b>Scientific Reports</b> 6: 39591</a>
+ (IF2016 = 4.259)
+</ul>
+</details>
+
+
+
 
 ## Journals
 [![alt text](https://media.springernature.com/w200/springer-static/cover-hires/journal/41586/569/7756 "Nature"){:height="110px" width="82.5px"}](https://www.nature.com)
