@@ -104,7 +104,7 @@
 + [PNAS](https://www.pnas.org/)
 + [Nature Communications](https://www.nature.com/ncomms/)
 
-    <table>
+<table>
         <tr>
             <td>
 + [Nature Plants](https://www.nature.com/nplants/)
@@ -113,18 +113,16 @@
 + [Plant Physiology](http://www.plantphysiol.org/)
 + [Genome Biology](https://genomebiology.biomedcentral.com/)
 + [Genome Research](https://genome.cshlp.org/)
-+ [Plant Biotechnology Journal](https://onlinelibrary.wiley.com/journal/14677652)
-            </td>
++ [Plant Biotechnology Journal](https://onlinelibrary.wiley.com/journal/14677652)</td>
             <td>
 + [Plant Cell & Environment](https://onlinelibrary.wiley.com/journal/13653040)
 + [Biotechnology for Biofuels](https://biotechnologyforbiofuels.biomedcentral.com/)
 + [Journal of Experimental Botany](https://academic.oup.com/jxb)
 + [Plant & Cell Physiology](https://academic.oup.com/pcp)
 + [BMC Genomics](https://bmcgenomics.biomedcentral.com)
-+ [Frontiers in Plant Science](https://www.frontiersin.org/journals/plant-science)
-            </td>
++ [Frontiers in Plant Science](https://www.frontiersin.org/journals/plant-science)</td>
         </tr>
-    </table>
+</table>
 
 
 
