@@ -115,6 +115,13 @@
 </table>
 
 
+
+[![alt text](http://www.plantcell.org/sites/default/files/plantcelltop.png "Plant Cell"){:height="120px"}](www.plantcell.org)
+[![alt text](https://www.pnas.org/sites/default/files/logo-pnas-white-header2x.png "PNAS"){:height="120px"}](www.pnas.org)
+[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa7f836a57fbef4ef15c560ab4ce386f.svg "Nature Communications"){:height="120px"}](www.nature.com/ncomms)
+
+
+
 ## Editorial Boards
 + [BMC Plant Biology](https://bmcplantbiol.biomedcentral.com)
 + [BMC Biotechnology](https://bmcbiotechnol.biomedcentral.com)
