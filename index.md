@@ -87,7 +87,7 @@
 
 
 ## Journals
-[![alt text](https://media.springernature.com/w300/springer-static/cover-hires/journal/41586/574/7776 "Nature"){:height="110px" width="82.5px"}](https://www.nature.com)
+[![alt text](https://media.springernature.com/w200/springer-static/cover-hires/journal/41586/569/7756 "Nature"){:height="110px" width="82.5px"}](https://www.nature.com)
 [![alt text](https://science.sciencemag.org/content/sci/365/6452/F1.medium.gif "Science"){:height="110px" width="82.5px"}](https://www.sciencemag.org/)
 [![alt text](https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/atypon:cms:attachment:img:d146e6:rev:1562937545990-4532:pii:S0092867418X00142/cover.tif.jpg "Cell"){:height="110px" width="82.5px"}](https://www.cell.com)
 [![alt text](https://media.springernature.com/w300/springer-static/cover-hires/journal/41477/5/9 "Nature Plants"){:height="110px" width="82.5px"}](https://www.nature.com/nplants/)
