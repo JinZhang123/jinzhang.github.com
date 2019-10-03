@@ -124,8 +124,8 @@
 [![alt text](https://wol-prod-cdn.literatumonline.com/cms/attachment/421b27b6-a514-4a97-8b75-6ca01681c7b6/pbi.v17.10.cover.gif "Plant Biotechnology Journal"){:height="120px"}](https://onlinelibrary.wiley.com/journal/14677652)
 [![alt text]https://wol-prod-cdn.literatumonline.com/cms/attachment/21b8dd1c-08f5-42e5-9f05-8814f3ea08ea/tpj.v100.1.cover.gif "The Plant Journal"){:height="120px"}](https://onlinelibrary.wiley.com/journal/1365313x)
 [![alt text](https://wol-prod-cdn.literatumonline.com/cms/attachment/eb67b5e7-119d-4c91-bed5-2f2472a2363e/pce.v42.9.cover.jpg "Plant, Cell & Environment"){:height="120px"}](https://onlinelibrary.wiley.com/journal/13653040)
-
-
+[![alt text](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jxb/Issue/70/12/1/m_cover.png?Expires=1570209196&Signature=32u8VuGpEooAPnWHlXab7R8j-OIAeQ8pUWjcSNo3Bw1caOwBNu3Ulqw2tNzN~ULypC3L4sAbdgs68-0HYtdR4Lu-mJYvE-q5IbCMBz6-y5NRMdB6w~IpZGDiri-1iNXPDyEBDWuHl5DYLLCe7INNoi0~cgQVrMHxLNrgRIsZgqcSdzF5Sx~XfVPjcKfRmWx19bSAm5pEGrECwmLEDtecdZKyBZenEcSw72ibTytZ4D10~8gR55zW~Az5JagccLb0yKaopHXuasRZ83Zu5r3xlQ9EdAC8bp2pIhJsSlDdoDxekbq566MfSYwERwaR4za7lUGhWOcUg0L10lWOOj9LPA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA "Journal of Experimental Botany"){:height="120px"}](https://academic.oup.com/jxb)
+[![alt text](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/pcp/Issue/60/9/2/m_pcellphys_60_9cover.png?Expires=1570208779&Signature=wD4QrrknLfUVsnjk5zpTmpqbWifLjjimQ9qKyBdpFgQLWl~h0XEBE8NPqPpsATj19dnfKjFsZbNhKC9vRwsiU-5REa8xZKijP0qchhn5NqzGWW9bjsvWo8P2x9eBJuup2mQT6VAKJHLyT1GQdHaOTE8YrvzGKufysX~mBcbdgVWaSXbftQkWHbgEE6Ce~rwNGYndKKFZCti8BdP3dw8BF4ZhrbBfXc91Sm1ze0~YWTQ3qWEBqB8HWQIjmQ3Z09qEoGtqzEzEAh9jMLspaWu9upcgtkDjz735PeOnABftfHLzjumuFw9sIIzJdUBN5MQMM2PsVX6Vx3KLQmwI0Y6ceQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA "Plant & Cell Physiology"){:height="120px"}](https://academic.oup.com/pcp)
 
 [![alt text](https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa6f7c33d1ba82f8cce520a556a024c0.svg "Nature Communications"){:height="50px"}](https://www.nature.com/ncomms)
 
