@@ -87,54 +87,37 @@
 
 
 ## Journals
-+ [Nature Plants](https://www.nature.com/nplants/)
-+ [The Plant Cell](http://www.plantcell.org/)
-+ [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137)
-+ [Plant Physiology](http://www.plantphysiol.org/)
-+ [Genome Biology](https://genomebiology.biomedcentral.com/)
-+ [Genome Research](https://genome.cshlp.org/)
-+ [Plant Biotechnology Journal](https://onlinelibrary.wiley.com/journal/14677652)
-+ [Plant Cell & Environment](https://onlinelibrary.wiley.com/journal/13653040)
-+ [Biotechnology for Biofuels](https://biotechnologyforbiofuels.biomedcentral.com/)
-+ [Journal of Experimental Botany](https://academic.oup.com/jxb)
-+ [Plant & Cell Physiology](https://academic.oup.com/pcp)
-+ [BMC Genomics](https://bmcgenomics.biomedcentral.com)
+
 + [Frontiers in Plant Science](https://www.frontiersin.org/journals/plant-science)
 
 + [PNAS](https://www.pnas.org/)
 + [Nature Communications](https://www.nature.com/ncomms/)
 
 <table>
-        <tr>
-            <td>
-+ [Nature Plants](https://www.nature.com/nplants/)
-+ [The Plant Cell](http://www.plantcell.org/)
-+ [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137)
-+ [Plant Physiology](http://www.plantphysiol.org/)
-+ [Genome Biology](https://genomebiology.biomedcentral.com/)
-+ [Genome Research](https://genome.cshlp.org/)
-+ [Plant Biotechnology Journal](https://onlinelibrary.wiley.com/journal/14677652)</td>
-            <td>
-+ [Plant Cell & Environment](https://onlinelibrary.wiley.com/journal/13653040)
-+ [Biotechnology for Biofuels](https://biotechnologyforbiofuels.biomedcentral.com/)
-+ [Journal of Experimental Botany](https://academic.oup.com/jxb)
-+ [Plant & Cell Physiology](https://academic.oup.com/pcp)
-+ [BMC Genomics](https://bmcgenomics.biomedcentral.com)
-+ [Frontiers in Plant Science](https://www.frontiersin.org/journals/plant-science)</td>
-        </tr>
-</table>
-
-<table>
   <tr>
-    <td>[Nature Plants](https://www.nature.com/nplants/)</td>
-    <td>[The Plant Cell](http://www.plantcell.org/)</td>
-    <td>[New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137)</td>
+    <td><a href="www.nature.com/nplants">Nature Plants</a></td>
+    <td><a href="www.plantcell.org">Plant Cell</a></td>
+    <td><a href="nph.onlinelibrary.wiley.com/journal/14698137">New Phytologist</a></td>
+    <td><a href="www.plantphysiol.org">Plant Physiology</a></td>          
   </tr>
   <tr>
-    <td>[Plant Physiology](http://www.plantphysiol.org/)</td>
-    <td><a href="www.baidu.com">百度</a></td>
-    <td>http://www.google.com/ "Google"</td>
+    <td><a href="genomebiology.biomedcentral.com">Genome Biology</a></td>
+    <td><a href="genome.cshlp.org">Genome Research</a></td>
+    <td><a href="onlinelibrary.wiley.com/journal/14677652">Plant Biotechnology Journal</a></td>
+    <td><a href="onlinelibrary.wiley.com/journal/13653040">Plant Cell & Environment</a></td>   
   </tr>
+  <tr>
+    <td><a href="biotechnologyforbiofuels.biomedcentral.com">Biotechnology for Biofuels</a></td>
+    <td><a href="academic.oup.com/jxb">Journal of Experimental Botany</a></td>
+    <td><a href="academic.oup.com/pcp">Plant & Cell Physiology</a></td>
+    <td><a href="bmcgenomics.biomedcentral.com">BMC Genomics</a></td>   
+  </tr>        
+  <tr>
+    <td><a href="www.pnas.org">PNAS</a></td>
+    <td><a href=www.nature.com/ncomms">Nature Communications</a></td>
+    <td><a href="www.frontiersin.org/journals/plant-science">Frontiers in Plant Science</a></td>
+ 
+  </tr>    
 </table>
 
 
