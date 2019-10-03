@@ -95,27 +95,27 @@
 
 <table>
   <tr>
-    <td><a href="www.nature.com/nplants">Nature Plants</a></td>
+    <td><a href="www.nature.com/nplants">Nat. Plants</a></td>
     <td><a href="www.plantcell.org">Plant Cell</a></td>
-    <td><a href="nph.onlinelibrary.wiley.com/journal/14698137">New Phytologist</a></td>
-    <td><a href="www.plantphysiol.org">Plant Physiology</a></td>          
+    <td><a href="www.plantphysiol.org">Plant Physiol.</a></td>     
+    <td><a href="nph.onlinelibrary.wiley.com/journal/14698137">New Phytol.</a></td>
   </tr>
   <tr>
-    <td><a href="genomebiology.biomedcentral.com">Genome Biology</a></td>
-    <td><a href="genome.cshlp.org">Genome Research</a></td>
-    <td><a href="onlinelibrary.wiley.com/journal/14677652">Plant Biotechnology Journal</a></td>
-    <td><a href="onlinelibrary.wiley.com/journal/13653040">Plant Cell & Environment</a></td>   
+    <td><a href="genomebiology.biomedcentral.com">Genome Biol.</a></td>
+    <td><a href="genome.cshlp.org">Genome Res.</a></td>
+    <td><a href="onlinelibrary.wiley.com/journal/14677652">Plant Biotech. J.</a></td>
+    <td><a href="onlinelibrary.wiley.com/journal/13653040">Plant Cell Environ.</a></td>   
   </tr>
   <tr>
-    <td><a href="biotechnologyforbiofuels.biomedcentral.com">Biotechnology for Biofuels</a></td>
-    <td><a href="academic.oup.com/jxb">Journal of Experimental Botany</a></td>
-    <td><a href="academic.oup.com/pcp">Plant & Cell Physiology</a></td>
+    <td><a href="biotechnologyforbiofuels.biomedcentral.com">Biotech. Biofuels</a></td>
+    <td><a href="academic.oup.com/jxb">J. Exp. Bot.</a></td>
+    <td><a href="academic.oup.com/pcp">Plant Cell Physiol.</a></td>
     <td><a href="bmcgenomics.biomedcentral.com">BMC Genomics</a></td>   
   </tr>        
   <tr>
     <td><a href="www.pnas.org">PNAS</a></td>
-    <td><a href="www.nature.com/ncomms">Nature Communications</a></td>
-    <td><a href="www.frontiersin.org/journals/plant-science">Frontiers in Plant Science</a></td>
+    <td><a href="www.nature.com/ncomms">Nat. Commun.</a></td>
+    <td><a href="www.frontiersin.org/journals/plant-science">Front. Plant Sci.</a></td>
  
   </tr>    
 </table>
