@@ -114,7 +114,7 @@
   </tr>        
   <tr>
     <td><a href="www.pnas.org">PNAS</a></td>
-    <td><a href=www.nature.com/ncomms">Nature Communications</a></td>
+    <td><a href="www.nature.com/ncomms">Nature Communications</a></td>
     <td><a href="www.frontiersin.org/journals/plant-science">Frontiers in Plant Science</a></td>
  
   </tr>    
