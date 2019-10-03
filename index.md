@@ -10,7 +10,7 @@
 
 ### 2019
 + ***<u>Zhang J</u>***, et al. (2019) Overexpression of a *Prefoldin β* subunit gene reduces biomass recalcitrance in the bioenergy crop *Populus*. [**Plant Biotechnology Journal** (doi:10.1111/pbi.13254)](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13254) (IF2018 = 6.840)
-+ Labbe J, ..., ***<u>Zhang J</u>***, et al. (2019) Mediation of plant-mycorrhizal interaction by a lectin receptor-like kinase. [**Nature Plants** 5: 676–680](https://www.nature.com/articles/s41477-019-0469-x) (IF2018 = 13.297)
++ Labbe J, ..., ***<u>Zhang J</u>***, et al. (2019) Mediation of plant-mycorrhizal interaction by a lectin receptor-like kinase. [**Nature Plants** 5: 676–680](https://www.nature.com/articles/s41477-019-0469-x) (IF2018 = 13.297)![nature plants](https://media.springernature.com/full/nature-cms/uploads/product/nplants/header-9071cc9ef7101c068c9a51b55ae0babd.svg){:height="50px"}
 + ***<u>Zhang J</u>***, et al. (2019) Molecular response of poplar to single and combined ozone and drought. [**Science of the Total Environment** 655: 1364-1375](https://www.sciencedirect.com/science/article/pii/S0048969718345510). (IF2018 = 5.589)
 + ***<u>Zhang J</u>***, et al. (2019) Overexpression of a serine hydroxymethyltransferase increases biomass production and reduces recalcitrance in the bioenergy crop *Populus*. [**Sustainable Energy & Fuels** 3(1): 195-207](https://pubs.rsc.org/en/content/articlelanding/2019/se/c8se00471d#!divAbstract) (IF2018 = 4.912)
 + ***<u>Zhang J</u>\****, et al. (2019) Agronomic performance in field of 27 *Populus* clones following two 3-year coppice rotations. [**Global Change Biology Bioenergy**]() (in revision) (IF2018 = 4.849)
@@ -120,6 +120,7 @@
 + [BMC Biotechnology](https://bmcbiotechnol.biomedcentral.com)
 + [Frontiers in Plant Science (*Research Topic:* **Biofuels and Bioenergy**)](https://www.frontiersin.org/research-topics/10844/biofuels-and-bioenergy)
 ![Biofuels and Bioenergy](https://www.frontiersin.org/image/researchtopic/10844 "Biofuels and Bioenergy"){:height="100px" width="100px"}
+
 
 
 
