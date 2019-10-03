@@ -126,9 +126,14 @@
 
 <table>
   <tr>
-    <td >图片URL地址</td>
-    <td>文本部分</td>
-    <td>文本部分</td>
+    <td>[Nature Plants](https://www.nature.com/nplants/)</td>
+    <td>[The Plant Cell](http://www.plantcell.org/)</td>
+    <td>[New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137)</td>
+  </tr>
+  <tr>
+    <td>[Plant Physiology](http://www.plantphysiol.org/)</td>
+    <td>[Genome Biology](https://genomebiology.biomedcentral.com/)</td>
+    <td>[Genome Research](https://genome.cshlp.org/)</td>
   </tr>
 </table>
 
