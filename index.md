@@ -97,13 +97,16 @@
 [![alt text](https://wol-prod-cdn.literatumonline.com/cms/attachment/eb67b5e7-119d-4c91-bed5-2f2472a2363e/pce.v42.9.cover.jpg "Plant, Cell & Environment"){:height="110px"}](https://onlinelibrary.wiley.com/journal/13653040)
 [![alt text](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jxb/Issue/70/12/1/m_cover.png?Expires=1570209196&Signature=32u8VuGpEooAPnWHlXab7R8j-OIAeQ8pUWjcSNo3Bw1caOwBNu3Ulqw2tNzN~ULypC3L4sAbdgs68-0HYtdR4Lu-mJYvE-q5IbCMBz6-y5NRMdB6w~IpZGDiri-1iNXPDyEBDWuHl5DYLLCe7INNoi0~cgQVrMHxLNrgRIsZgqcSdzF5Sx~XfVPjcKfRmWx19bSAm5pEGrECwmLEDtecdZKyBZenEcSw72ibTytZ4D10~8gR55zW~Az5JagccLb0yKaopHXuasRZ83Zu5r3xlQ9EdAC8bp2pIhJsSlDdoDxekbq566MfSYwERwaR4za7lUGhWOcUg0L10lWOOj9LPA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA "Journal of Experimental Botany"){:height="110px"}](https://academic.oup.com/jxb)
 [![alt text](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/pcp/Issue/60/9/2/m_pcellphys_60_9cover.png?Expires=1570208779&Signature=wD4QrrknLfUVsnjk5zpTmpqbWifLjjimQ9qKyBdpFgQLWl~h0XEBE8NPqPpsATj19dnfKjFsZbNhKC9vRwsiU-5REa8xZKijP0qchhn5NqzGWW9bjsvWo8P2x9eBJuup2mQT6VAKJHLyT1GQdHaOTE8YrvzGKufysX~mBcbdgVWaSXbftQkWHbgEE6Ce~rwNGYndKKFZCti8BdP3dw8BF4ZhrbBfXc91Sm1ze0~YWTQ3qWEBqB8HWQIjmQ3Z09qEoGtqzEzEAh9jMLspaWu9upcgtkDjz735PeOnABftfHLzjumuFw9sIIzJdUBN5MQMM2PsVX6Vx3KLQmwI0Y6ceQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA "Plant & Cell Physiology"){:height="110px"}](https://academic.oup.com/pcp)
+[![alt text](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/treephys/Issue/35/12/1/m_cover.gif?Expires=1570209635&Signature=fV6BzXqTOAHPFLEIcr4xqOibB-3W4sK4qD-uG8IadoMtCYUirfq3VgvD41YMd4qyzmagCmwO-cvyw89kzGvj3ReSauUJh~LrabfV6Ls7P0d0RKpCJeEld7xFL32X2vYOtZtuvzklZtZLN1kyqh6qp6x~5kJoQ08a8F4iQV3zUP1IUzSnez0rPynmSF0nicksgnD6dBQFbAjtScSssGgPj3nzUJs60hpakPsONIfoVe-CJt1JXwpWf~XyoHYYS8vHRgHZURygdpsJ3MNK4IDlx1~33Jcezz08pp4kkK6F9-b5U0wkaroa8PEuwDUvPoZkIRnayVivtksZ5KIm4oXlRQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA "Tree Physiology"){:height="110px"}](https://academic.oup.com/treephys)
 [![alt text](https://genome.cshlp.org/content/vol29/issue10/home_cover.gif "Genome Research"){:height="110px"}](https://genome.cshlp.org)
-[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa6f7c33d1ba82f8cce520a556a024c0.svg "Nature Communications"){:height="50px"}](https://www.nature.com/ncomms)
+[![alt text](https://static-content.springer.com/cover/journal/13059/20/1.jpg "Genome Biology"){:height="110px"}](https://genomebiology.biomedcentral.com/)
+[![alt text](https://static-content.springer.com/cover/journal/13068/12/1.jpg "Biotechnology for Biofuels"){:height="110px"}](https://biotechnologyforbiofuels.biomedcentral.com/)
+[![alt text](https://static-content.springer.com/cover/journal/12864/20/1.jpg "BMC Genomics"){:height="110px"}](https://bmcgenomics.biomedcentral.com/)
+[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa6f7c33d1ba82f8cce520a556a024c0.svg "Nature Communications"){:height="40px"}](https://www.nature.com/ncomms)
+[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/commsbio/header-4825c736f2454a5e95e350335a4dbf72.svg "Communications Biology"){:height="40px"}](https://www.nature.com/commsbio/)
+
 <table>
   <tr>
-    <td><a href="genomebiology.biomedcentral.com">Genome Biol.</a></td>
-    <td><a href="biotechnologyforbiofuels.biomedcentral.com">Biotech. Biofuels</a></td>
-    <td><a href="bmcgenomics.biomedcentral.com">BMC Genomics</a></td>   
     <td><a href="www.frontiersin.org/journals/plant-science">Front. Plant Sci.</a></td>
    </tr>    
 </table>
