@@ -115,18 +115,18 @@
 </table>
 
 
-[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/nplants/header-9071cc9ef7101c068c9a51b55ae0babd.svg "Nature Plants"){:height="50px"}](https://www.nature.com/nplants/)
-[![alt text](https://www.pnas.org/sites/default/files/pnas_2x.png "PNAS"){:height="50px"}](https://www.pnas.org)
+[![alt text](https://media.springernature.com/w300/springer-static/cover-hires/journal/41477/5/9 "Nature Plants"){:height="100px"}](https://www.nature.com/nplants/)
+[![alt text](https://www.pnas.org/sites/default/files/styles/large/public/highwire/pnas/116/40.cover-source.jpg?itok=vkOYj0NJ "PNAS"){:height="100px"}](https://www.pnas.org)
+[![alt text](http://www.plantcell.org/sites/default/files/styles/medium/public/highwire/plantcell/31/9.cover-source.jpg?itok=O1P1BaDZ "Plant Cell"){:height="100px"}](https://www.plantcell.org)
+[![alt text](http://www.plantphysiol.org/sites/default/files/styles/medium/public/highwire/plantphysiol/181/2.cover-source.jpg?itok=px2fPOnM "Plant Physiol."){:height="100px"}](https://www.plantphysiol.org)
+[![alt text](https://wol-prod-cdn.literatumonline.com/cms/attachment/0cb170c5-1038-412e-9fd6-eb9538f3083c/nph.v224.2.cover.jpg "New Phytologist"){:height="100px"}](https://nph.onlinelibrary.wiley.com/journal/14698137)
+
+
+[![alt text](http://www.plantcell.org/sites/default/files/plantcelltop.png "Plant Cell"){:height="50px"}](https://www.plantcell.org)
+[![alt text](http://www.plantcell.org/sites/default/files/plantcelltop.png "Plant Cell"){:height="50px"}](https://www.plantcell.org)
+[![alt text](http://www.plantcell.org/sites/default/files/plantcelltop.png "Plant Cell"){:height="50px"}](https://www.plantcell.org)
+
 [![alt text](https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa6f7c33d1ba82f8cce520a556a024c0.svg "Nature Communications"){:height="50px"}](https://www.nature.com/ncomms)
-[![alt text](http://www.plantcell.org/sites/default/files/plantcelltop.png "Plant Cell"){:height="50px"}](https://www.plantcell.org)
-[![alt text](http://www.plantphysiol.org/sites/default/files/plantphysiologytop.png "Plant Physiol."){:height="50px"}](https://www.plantphysiol.org)
-[![alt text](https://wol-prod-cdn.literatumonline.com/pb-assets/hub-assets/nph/logo-header-1508232815617.png "New Phytologist"){:height="50px"}](https://nph.onlinelibrary.wiley.com/journal/14698137)
-
-[![alt text](http://www.plantcell.org/sites/default/files/plantcelltop.png "Plant Cell"){:height="50px"}](https://www.plantcell.org)
-[![alt text](http://www.plantcell.org/sites/default/files/plantcelltop.png "Plant Cell"){:height="50px"}](https://www.plantcell.org)
-[![alt text](http://www.plantcell.org/sites/default/files/plantcelltop.png "Plant Cell"){:height="50px"}](https://www.plantcell.org)
-
-
 
 ## Editorial Boards
 + [BMC Plant Biology](https://bmcplantbiol.biomedcentral.com)
