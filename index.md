@@ -87,12 +87,6 @@
 
 
 ## Journals
-
-+ [Frontiers in Plant Science](https://www.frontiersin.org/journals/plant-science)
-
-+ [PNAS](https://www.pnas.org/)
-+ [Nature Communications](https://www.nature.com/ncomms/)
-
 <table>
   <tr>
     <td><a href="www.nature.com/nplants">Nat. Plants</a></td>
