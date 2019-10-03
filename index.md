@@ -21,34 +21,22 @@
 + Xie M, ***<u>Zhang J</u>***, et al. (2019) Heterologous expression of *Populus PtrEPSP-TF* in rice triggers transcriptional reprogramming of lignin and secondary cell wall biosynthesis. [**Plant Direct**]() (In Press) 
 + Chang E, ***<u>Zhang J</u>***, et al. (2019) *De novo* characterization of the *Platycladus orientalis* transcriptome and analysis of photosynthesis-related genes during aging. [**Forests** 10(5): 393](https://www.mdpi.com/1999-4907/10/5/393) (IF2018 = 2.116) 
 
-
-
-
+### Full list of Publications
 <details>
   <summary> 2019 </summary>
 
 <ul>
-<li><mark><strong><u><i>Zhang J</i></u></strong></mark>, et al. (2019) Overexpression of a *Prefoldin β* subunit gene reduces biomass recalcitrance in the bioenergy crop <i>Populus</i>. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13254"><b>Plant Biotechnology Journal</b> (doi:10.1111/pbi.13254)</a> (IF2018 = 6.840)</li>
-
-<li>Labbe J, ..., <mark><strong><u><i>Zhang J</i></u></strong></mark>, et al. (2019) Mediation of plant-mycorrhizal interaction by a lectin receptor-like kinase. <a href="https://www.nature.com/articles/s41477-019-0469-x"><b>Nature Plants</b> 5: 676–680</a> (IF2018 = 13.297) </li>
-
-<li><mark><strong><u><i>Zhang J</i></u></strong></mark>, et al. (2019) Molecular response of poplar to single and combined ozone and drought. <a href="https://www.sciencedirect.com/science/article/pii/S0048969718345510"><b>Science of the Total Environment</b> 655: 1364-1375</a>. (IF2018 = 5.589) </li>
-
-<li><mark><strong><u><i>Zhang J</i></u></strong></mark>, et al. (2019) Overexpression of a serine hydroxymethyltransferase increases biomass production and reduces recalcitrance in the bioenergy crop <i>Populus</i>. <a href="https://pubs.rsc.org/en/content/articlelanding/2019/se/c8se00471d#!divAbstract"><b>Sustainable Energy & Fuels</b> 3(1): 195-207</a> (IF2018 = 4.912) </li>
-
-<li><mark><strong><u><i>Zhang J</i></u></strong></mark>, et al. (2019) Agronomic performance in field of 27 *Populus* clones following two 3-year coppice rotations. [**Global Change Biology Bioenergy**]() (in revision) (IF2018 = 4.849) </li>
-
-<li>Jia H<sup>#</sup>, <mark><strong><u><i>Zhang J</i></u></strong></mark><sup>#,</sup>\****, Li J<sup>#</sup>, et al. (2019) Genome-wide transcriptomic analysis of a desert willow, *Salix psammophila*, reveals the function of hub genes *SpMDP1* and *SpWRKY33* in drought tolerance. [**BMC Plant Biology** 19: 356](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-1900-1) (Co-first author, Corresponding author) (IF2018 = 3.670) </li>
-
-<li>Liu B, Hu J, <mark><strong><u><i>Zhang J</i></u></strong></mark>* (2019) Evolutionary divergence of duplicated *Hsf* genes in *Populus*. [**Cells** 8(5), 438](https://www.mdpi.com/2073-4409/8/5/438) (Corresponding author) (IF2018 = 5.656) </li>
-
-<li>Li W, Wan X, Yu J, Wang K, <mark><strong><u><i>Zhang J</i></u></strong></mark>* (2019) Genome-wide identification, classification and expression analysis of the *Hsf* gene family in Carnation (*Dianthus caryophyllus*) [**International Journal of Molecular Sciences**]() (In Press) (IF2018 = 4.183) </li>
-
-<li>Jia H<sup>#</sup>, Li J<sup>#</sup>, <mark><strong><u><i>Zhang J</i></u></strong></mark>, et al. (2019) The *Salix psammophila SpRLCK1* involved in drought and salt tolerance. [**Plant Physiology and Biochemistry** (doi:10.1016/j.plaphy.2019.09.042)](https://www.sciencedirect.com/science/article/abs/pii/S0981942819303948) (IF2018 = 3.404) </li>
-
-<li>Xie M, <mark><strong><u><i>Zhang J</i></u></strong></mark>, et al. (2019) Heterologous expression of *Populus PtrEPSP-TF* in rice triggers transcriptional reprogramming of lignin and secondary cell wall biosynthesis. [**Plant Direct**]() (In Press) </li>
-
-<li>Chang E, <mark><strong><u><i>Zhang J</i></u></strong></mark>, et al. (2019) *De novo* characterization of the *Platycladus orientalis* transcriptome and analysis of photosynthesis-related genes during aging. [**Forests** 10(5): 393](https://www.mdpi.com/1999-4907/10/5/393) (IF2018 = 2.116) </li>
+<li><strong><u><i>Zhang J</i></u></strong>, et al. (2019) Overexpression of a *Prefoldin β* subunit gene reduces biomass recalcitrance in the bioenergy crop <i>Populus</i>. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13254"><b>Plant Biotechnology Journal</b> (doi:10.1111/pbi.13254)</a> (IF2018 = 6.840)</li>
+<li>Labbe J, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2019) Mediation of plant-mycorrhizal interaction by a lectin receptor-like kinase. <a href="https://www.nature.com/articles/s41477-019-0469-x"><b>Nature Plants</b> 5: 676–680</a> (IF2018 = 13.297) </li>
+<li><strong><u><i>Zhang J</i></u></strong>, et al. (2019) Molecular response of poplar to single and combined ozone and drought. <a href="https://www.sciencedirect.com/science/article/pii/S0048969718345510"><b>Science of the Total Environment</b> 655: 1364-1375</a>. (IF2018 = 5.589) </li>
+<li><strong><u><i>Zhang J</i></u></strong>, et al. (2019) Overexpression of a serine hydroxymethyltransferase increases biomass production and reduces recalcitrance in the bioenergy crop <i>Populus</i>. <a href="https://pubs.rsc.org/en/content/articlelanding/2019/se/c8se00471d#!divAbstract"><b>Sustainable Energy & Fuels</b> 3(1): 195-207</a> (IF2018 = 4.912) </li>
+<li><strong><u><i>Zhang J</i></u></strong>, et al. (2019) Agronomic performance in field of 27 *Populus* clones following two 3-year coppice rotations. <b>Global Change Biology Bioenergy</b> (in revision) (IF2018 = 4.849) </li>
+<li>Jia H<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong><sup>#,</sup>*, Li J<sup>#</sup>, et al. (2019) Genome-wide transcriptomic analysis of a desert willow, *Salix psammophila*, reveals the function of hub genes <i>SpMDP1</i> and <i>SpWRKY33</i> in drought tolerance. <a href="https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-019-1900-1"><b>BMC Plant Biology</b> 19: 356</a> (Co-first author, Corresponding author) (IF2018 = 3.670) </li>
+<li>Liu B, Hu J, <strong><u><i>Zhang J</i></u></strong>* (2019) Evolutionary divergence of duplicated <i>Hsf</i> genes in <i>Populus</i>. <a href="https://www.mdpi.com/2073-4409/8/5/438"><b>Cells</b> 8(5), 438</a> (Corresponding author) (IF2018 = 5.656) </li>
+<li>Li W, Wan X, Yu J, Wang K, <strong><u><i>Zhang J</i></u></strong>* (2019) Genome-wide identification, classification and expression analysis of the <i>Hsf</i> gene family in Carnation (<i>Dianthus caryophyllus</i>) <b>International Journal of Molecular Sciences</b> (In Press) (IF2018 = 4.183) </li>
+<li>Jia H<sup>#</sup>, Li J<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong>, et al. (2019) The *Salix psammophila SpRLCK1* involved in drought and salt tolerance. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0981942819303948"><b>Plant Physiology and Biochemistry</b> (doi:10.1016/j.plaphy.2019.09.042)</a> (IF2018 = 3.404) </li>
+<li>Xie M, <strong><u><i>Zhang J</i></u></strong>, et al. (2019) Heterologous expression of <i>Populus PtrEPSP-TF</i> in rice triggers transcriptional reprogramming of lignin and secondary cell wall biosynthesis. <b>Plant Direct**]</b> (In Press) </li>
+<li>Chang E, <strong><u><i>Zhang J</i></u></strong>, et al. (2019) <i>De novo</i> characterization of the <i>Platycladus orientalis</i> transcriptome and analysis of photosynthesis-related genes during aging. <a href="https://www.mdpi.com/1999-4907/10/5/393"><b>Forests</b> 10(5): 393</a> (IF2018 = 2.116) </li>
 </ul>
 </details>
  
