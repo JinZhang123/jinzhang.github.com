@@ -4,7 +4,7 @@
 + [Google Scholar](https://scholar.google.com/citations?hl=en&user=U-I2QKsAAAAJ&view_op=list_works&sortby=pubdate)
 
 
-
+----
 ## Publications
 (\# Equal contribution; \* Corresponding author)
 
@@ -56,7 +56,7 @@
 <li>Chang E, Deng N, <strong><u><i>Zhang J</i></u></strong>, et al. (2018). Proteome-level analysis of metabolism-and stress-related proteins during seed dormancy and germination in <i>Gnetum parvifolium</i>. <a href="https://pubs.acs.org/doi/10.1021/acs.jafc.7b05001"><b>Journal of Agricultural and Food Chemistry</b> 66(11): 3019-3029</a> (IF2018 = 3.571)</li>
 <li>Wang L<sup>#</sup>, Zhang X<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong>, et al. (2018). Proteomic analysis and identification of possible allergenic proteins in mature pollen of <i>Populus tomentosa</i>. <a href="https://www.mdpi.com/1422-0067/19/1/250"><b>International Journal of Molecular Sciences</b> 19(1): E250</a> (IF2018 = 4.183)</li>
 <li>Tuskan G, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2018) Defining the genetic components of callus formation: A GWAS approach. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202519"><b>PLoS One</b> 13(8): e0202519</a> (IF2018 = 2.776)</li>
-<li>Li J, Jia H, <strong><u><i>Zhang J</i></u></strong>, et al. (2018) Effect of overexpression of <i>Populus tomentosa WUSCHEL-related homeobox 4</i> (<i>PtoWOX4a</i>) on the secondary growth of poplar. <a href="http://www.linyekexue.net/EN/10.11707/j.1001-7488.20180206"><b>Scientia Silvae Sinicae</b> 54(2): 52-59</a> (in Chinese) 
+<li>Li J, Jia H, <strong><u><i>Zhang J</i></u></strong>, et al. (2018) Effect of overexpression of <i>Populus tomentosa WUSCHEL-related homeobox 4</i> (<i>PtoWOX4a</i>) on the secondary growth of poplar. <a href="http://www.linyekexue.net/EN/10.11707/j.1001-7488.20180206"><b>Scientia Silvae Sinicae</b> 54(2): 52-59</a> (in Chinese) </li>
 
 </ul>
 </details>
@@ -73,7 +73,7 @@
 <li>Chang E, <strong><u><i>Zhang J</i></u></strong>, et al. (2017). Transcriptome differences between 20- and 3,000-year-old <i>Platycladus orientalis</i> reveal that ROS are involved in senescence regulation. <a href="https://www.sciencedirect.com/science/article/pii/S0717345817300404"><b>Electronic Journal of Biotechnology</b> 29: 68-77</a> (IF2017 = 1.881)</li>
 <li>Macaya-Sanz D, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2017) Agronomic performance of <i>Populus deltoides</i> trees engineered for biofuel production. <a href="https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-017-0934-6"><b>Biotechnology for Biofuels</b> 10(1): 253</a> (IF2017 = 5.497)</li>
 <li>Li Y, <strong><u><i>Zhang J</i></u></strong>, et al. (2015) Expression and functional analysis of ROP gene family in <i>Populus</i>. <a href="https://search.proquest.com/openview/1bbb894b08082aee503166798df05bce/1?pq-origsite=gscholar&cbl=2049649"><b>Forest Research</b> 30(1): 1-9</a> (in Chinese)</li>
-<li>Zhang X, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2017) Differences in pollen germination and allergenic proteins among different <i>Populus</i> germplasms. <a href="http://www.linyekexue.net/EN/abstract/abstract7543.shtml"><b>Scientia Silvae Sinicae</b> 53(2): 54-64</a>  (in Chinese)
+<li>Zhang X, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2017) Differences in pollen germination and allergenic proteins among different <i>Populus</i> germplasms. <a href="http://www.linyekexue.net/EN/abstract/abstract7543.shtml"><b>Scientia Silvae Sinicae</b> 53(2): 54-64</a> (in Chinese) </li>
 
 </ul>
 </details>
@@ -88,7 +88,7 @@
 <li>Jia H<sup>#</sup>, Li J<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong>, et al. (2016). Genome-wide survey and expression analysis of the stress-associated protein gene family in desert poplar, <i>Populus euphratica</i>. [<a href="https://link.springer.com/article/10.1007/s11295-016-1033-8"><b>Tree Genetics & Genomes</b> 12(4): 78</a> (IF2016 = 1.624)</li>
 <li>Li J<sup>#</sup>, Jia H<sup>#</sup>, Han X, <strong><u><i>Zhang J</i></u></strong>, et al. (2016). Selection of reliable reference genes for gene expression analysis under abiotic stresses in the desert biomass willow, <i>Salix psammophila</i>. <a href="https://www.frontiersin.org/articles/10.3389/fpls.2016.01505/full"><b>Frontiers in Plant Science</b> 7: 1505</a> (IF2016 = 4.291)</li>
 <li>Jia H, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2016). *De novo* transcriptome assembly, development of EST-SSR markers and population genetic analyses for the desert biomass willow, <i>Salix psammophila</i>. <a href="https://www.nature.com/articles/srep39591"><b>Scientific Reports</b> 6: 39591</a>
- (IF2016 = 4.259)
+ (IF2016 = 4.259) </li>
 
 </ul>
 </details>
@@ -105,7 +105,7 @@
 <li>Tian F, ..., <strong><u><i>Zhang J</i></u></strong>*, Hu J* (2015). Aldehyde dehydrogenase gene superfamily in <i>Populus</i>: organization and expression divergence between paralogous gene pairs. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0124669"><b>PLoS One</b> 10(4): e0124669</a> (Corresponding author) (IF2015 = 3.057)</li>
 <li>Tian F, ..., <strong><u><i>Zhang J</i></u></strong>*, Hu J* (2015). Genome-wide identification, classification, and expression analysis of 14-3-3 gene family in <i>Populus</i>. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123225"><b>PLoS One</b> 10(4): e0123225</a> (Corresponding author) (IF2015 = 3.057)</li>
 <li>Shu W, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2015). A <i>Populus TIR1</i> gene family survey reveals differential expression patterns and responses to 1-naphthaleneacetic acid and stress treatments. <a href="https://www.frontiersin.org/articles/10.3389/fpls.2015.00719/full"><b>Frontiers in Plant Science</b> 6: 126</a> (IF2015 = 4.495)</li>
-<li>Li J, <strong><u><i>Zhang J</i></u></strong>, et al. (2015) The effects of <i>AtFBDL1</i> on apical meristematic growth of <i>Arabidopsis thaliana</i>. <a href="https://search.proquest.com/openview/30693504af2542aba2212f479956487e/1?pq-origsite=gscholar&cbl=2049649"><b>Forest Research</b> 28(1):1-7</a> (in Chinese)
+<li>Li J, <strong><u><i>Zhang J</i></u></strong>, et al. (2015) The effects of <i>AtFBDL1</i> on apical meristematic growth of <i>Arabidopsis thaliana</i>. <a href="https://search.proquest.com/openview/30693504af2542aba2212f479956487e/1?pq-origsite=gscholar&cbl=2049649"><b>Forest Research</b> 28(1):1-7</a> (in Chinese) </li>
 
 </ul>
 </details>
@@ -119,7 +119,7 @@
 <li>Liu B, Wang L, <strong><u><i>Zhang J</i></u></strong>, et al. (2014) <i>WUSCHEL-related Homeobox* genes in <i>Populus tomentosa</i>: diversified expression patterns and a functional similarity in adventitious root formation. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-296"><b>BMC Genomics</b> 15(1): 296</a> (IF2014 = 3.986)</li>
 <li>Tian F<sup>#</sup>, Gong J<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong>, et al. (2014) Overexpression of monoubiquitin improves photosynthesis in transgenic tobacco plants following high temperature stress. <a href="https://www.sciencedirect.com/science/article/pii/S0168945214000508?via%3Dihub"><b>Plant Science</b> 226: 92-100</a> (IF2014 = 3.607)</li>
 <li><strong><u><i>Zhang J</i></u></strong>, et al. (2014) Expression analysis of class I Clp gene families in poplar. <a href=""><b>Journal of Nuclear Agricultural Sciences</b> 28(5): 777-783</a> (in Chinese)</li>
-<li><strong><u><i>Zhang J</i></u></strong>, et al. (2014) Expression and functional analysis of CDPK gene family in <i>Populus</i>. <a href=""><b>Forest Research</b> 27(5):604-611</a> (in Chinese)
+<li><strong><u><i>Zhang J</i></u></strong>, et al. (2014) Expression and functional analysis of CDPK gene family in <i>Populus</i>. <a href=""><b>Forest Research</b> 27(5):604-611</a> (in Chinese) </li>
 
 </ul>
 </details>
@@ -134,12 +134,12 @@
 <li>Li F, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2011) Drought tolerance through over-expression of the expansin gene TaEXPB23 in transgenic tobacco. <a href="https://www.sciencedirect.com/science/article/pii/S0176161711000629"><b>Journal of Plant Physiology</b> 168(9): 960-966</a> (IF2011 = 2.791)</li>
 <li>Wang G, Li F, <strong><u><i>Zhang J</i></u></strong>, et al. (2010) Overaccumulation of glycine betaine enhances tolerance of the photosynthetic apparatus to drought and heat stress in wheat. <a href="https://link.springer.com/article/10.1007/s11099-010-0006-7"><b>Photosynthetica</b> 48(1): 30-41</a> (IF2010 = 1.016)</li>
 <li>Wang G, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2010) Improvement of heat and drought photosynthetic tolerance in wheat by overaccumulation of glycinebetaine. <a href="https://link.springer.com/article/10.1007/s11816-010-0139-y"><b>Plant Biotechnology Reports</b> 4(3): 213-222</a> (IF2010 = 1.119)</li>
-<li>Guo Q<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong><sup>#</sup>***, et al. (2008) Drought tolerance through overexpression of monoubiquitin in transgenic tobacco. <a href="https://www.sciencedirect.com/science/article/pii/S0176161707002738"><b>Journal of Plant Physiology</b> 165(16):1745-1755</a> (Co-first author) (IF2008 = 2.437)
+<li>Guo Q<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong><sup>#</sup>***, et al. (2008) Drought tolerance through overexpression of monoubiquitin in transgenic tobacco. <a href="https://www.sciencedirect.com/science/article/pii/S0176161707002738"><b>Journal of Plant Physiology</b> 165(16):1745-1755</a> (Co-first author) (IF2008 = 2.437) </li>
 
 </ul>
 </details>
 
-
+----
 ## Journals
 [![alt text](https://media.springernature.com/w200/springer-static/cover-hires/journal/41586/569/7756 "Nature"){:height="110px" width="82.5px"}](https://www.nature.com)
 [![alt text](https://science.sciencemag.org/content/sci/365/6452/F1.medium.gif "Science"){:height="110px" width="82.5px"}](https://www.sciencemag.org/)
@@ -180,6 +180,7 @@
    </tr>    
 </table>
 
+----
 ## Editorial Boards
 + [BMC Plant Biology](https://bmcplantbiol.biomedcentral.com)
 + [BMC Biotechnology](https://bmcbiotechnol.biomedcentral.com)
