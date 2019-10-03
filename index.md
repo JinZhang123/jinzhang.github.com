@@ -124,6 +124,13 @@
         </tr>
 </table>
 
+<table>
+  <tr>
+    <td >图片URL地址</td>
+    <td>文本部分</td>
+    <td>文本部分</td>
+  </tr>
+</table>
 
 
 ## Editorial Boards
