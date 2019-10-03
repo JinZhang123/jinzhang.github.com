@@ -104,6 +104,34 @@
 + [PNAS](https://www.pnas.org/)
 + [Nature Communications](https://www.nature.com/ncomms/)
 
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                <!--左侧内容-->
++ [Nature Plants](https://www.nature.com/nplants/)
++ [The Plant Cell](http://www.plantcell.org/)
++ [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137)
++ [Plant Physiology](http://www.plantphysiol.org/)
++ [Genome Biology](https://genomebiology.biomedcentral.com/)
++ [Genome Research](https://genome.cshlp.org/)
++ [Plant Biotechnology Journal](https://onlinelibrary.wiley.com/journal/14677652)
+            </td>
+            <td>
+                <!--右侧内容-->
++ [Plant Cell & Environment](https://onlinelibrary.wiley.com/journal/13653040)
++ [Biotechnology for Biofuels](https://biotechnologyforbiofuels.biomedcentral.com/)
++ [Journal of Experimental Botany](https://academic.oup.com/jxb)
++ [Plant & Cell Physiology](https://academic.oup.com/pcp)
++ [BMC Genomics](https://bmcgenomics.biomedcentral.com)
++ [Frontiers in Plant Science](https://www.frontiersin.org/journals/plant-science)
+
+            </td>
+        </tr>
+    </table>
+</html>
+
+
 ## Editorial Boards
 + [BMC Plant Biology](https://bmcplantbiol.biomedcentral.com)
 + [BMC Biotechnology](https://bmcbiotechnol.biomedcentral.com)
