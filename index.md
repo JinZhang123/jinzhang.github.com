@@ -145,7 +145,7 @@
 [![alt text](https://science.sciencemag.org/content/sci/365/6452/F1.medium.gif "Science"){:height="100px" width="75px"}](https://www.sciencemag.org/)
 [![alt text](https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/atypon:cms:attachment:img:d146e6:rev:1562937545990-4532:pii:S0092867418X00142/cover.tif.jpg "Cell"){:height="100px" width="75px"}](https://www.cell.com)
 [![alt text](https://www.pnas.org/sites/default/files/highwire/pnas/111/2.cover-source.jpg "PNAS"){:height="100px" width="75px"}](https://www.pnas.org)
-[![alt text](https://news.unchealthcare.org/som-vital-signs/2012/feb2/genetics/image2 "Nature Genetics"){:height="100px" width="75px"}](https://www.nature.com/ng/)
+[![alt text](https://media.springernature.com/w200/springer-static/cover-hires/journal/41588/51/7 "Nature Genetics"){:height="100px" width="75px"}](https://www.nature.com/ng/)
 [![alt text](https://media.springernature.com/w200/nature-static/assets/v1/image-assets/nbt-v35-n7.png "Nature Biotechnology"){:height="100px" width="75px"}](https://www.nature.com/nbt/)
 [![alt text](https://media.springernature.com/w300/springer-static/cover-hires/journal/41477/5/9 "Nature Plants"){:height="100px" width="75px"}](https://www.nature.com/nplants/)
 [![alt text](https://oup.silverchair-cdn.com/ImageLibrary/MBE/Covers/August%202013_web.jpg?versionId=186368 "Molecular Biology and Evolution"){:height="100px" width="75px"}](https://academic.oup.com/mbe)
