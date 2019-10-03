@@ -132,7 +132,7 @@
   </tr>
   <tr>
     <td>[Plant Physiology](http://www.plantphysiol.org/)</td>
-    <td>[Genome Biology](https://genomebiology.biomedcentral.com/)</td>
+    <td><a href="www.baidu.com">百度</a></td>
     <td>http://www.google.com/ "Google"</td>
   </tr>
 </table>
