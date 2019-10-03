@@ -115,9 +115,9 @@
 </table>
 
 
-[![alt text](https://www.nature.com/nplants "Nature Plants"){:height="50px"}](https://www.nature.com/nplants/)
-[![alt text](https://www.pnas.org/sites/default/files/logo-pnas-white-header2x.png "PNAS"){:height="50px"}](https://www.pnas.org)
-[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa7f836a57fbef4ef15c560ab4ce386f.svg "Nature Communications"){:height="50px"}](https://www.nature.com/ncomms)
+[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/nplants/header-9071cc9ef7101c068c9a51b55ae0babd.svg "Nature Plants"){:height="50px"}](https://www.nature.com/nplants/)
+[![alt text](https://www.pnas.org/sites/default/files/pnas_2x.png "PNAS"){:height="50px"}](https://www.pnas.org)
+[![alt text](https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa6f7c33d1ba82f8cce520a556a024c0.svg "Nature Communications"){:height="50px"}](https://www.nature.com/ncomms)
 [![alt text](http://www.plantcell.org/sites/default/files/plantcelltop.png "Plant Cell"){:height="50px"}](https://www.plantcell.org)
 [![alt text](http://www.plantphysiol.org/sites/default/files/plantphysiologytop.png "Plant Physiol."){:height="50px"}](https://www.plantphysiol.org)
 [![alt text](https://wol-prod-cdn.literatumonline.com/pb-assets/hub-assets/nph/logo-header-1508232815617.png "New Phytologist"){:height="50px"}](https://nph.onlinelibrary.wiley.com/journal/14698137)
