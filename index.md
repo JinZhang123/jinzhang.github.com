@@ -104,8 +104,7 @@
 + [PNAS](https://www.pnas.org/)
 + [Nature Communications](https://www.nature.com/ncomms/)
 
-<html>
-    <table style="margin-left: auto; margin-right: auto;">
+    <table>
         <tr>
             <td>
 + [Nature Plants](https://www.nature.com/nplants/)
@@ -126,10 +125,8 @@
             </td>
         </tr>
     </table>
-</html>
 
 
-<div class="pull-left">http://www.scisan.com/wp-content/uploads/2017/07/vmall.jpg</div>最近华为商城请了胡歌代言，销量也是直线上升啊。
 
 ## Editorial Boards
 + [BMC Plant Biology](https://bmcplantbiol.biomedcentral.com)
