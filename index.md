@@ -3,6 +3,8 @@
 + [Homepage](https://www.ornl.gov/staff-profile/jin-zhang)
 + [Google Scholar](https://scholar.google.com/citations?hl=en&user=U-I2QKsAAAAJ&view_op=list_works&sortby=pubdate)
 
+
+
 ## Publications
 (\# Equal contribution; \* Corresponding author)
 
@@ -108,8 +110,34 @@
 </ul>
 </details>
 
+<details>
+  <summary> 2014 </summary>
 
+<ul>
+<li>Chen X<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong><sup>#</sup>, et al. (2014). Transcriptome sequencing and identification of cold tolerance genes in hardy <i>Corylus</i> species (<i>C. heterophylla</i> Fisch) floral buds. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0108604"><b>PLoS One</b> 9(9): e108604</a> (Co-first author) (IF2014 = 3.234)</li>
+<li>Liu B, <strong><u><i>Zhang J</i></u></strong>, et al. (2014) A survey of <i>Populus</i> PIN-FORMED family genes reveals their diversified expression patterns. <a href="https://academic.oup.com/jxb/article-lookup/doi/10.1093/jxb/eru129"><b>Journal of Experimental Botany</b> 65(9): 2437-2448</a> (IF2014 = 5.526)</li>
+<li>Liu B, Wang L, <strong><u><i>Zhang J</i></u></strong>, et al. (2014) <i>WUSCHEL-related Homeobox* genes in <i>Populus tomentosa</i>: diversified expression patterns and a functional similarity in adventitious root formation. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-296"><b>BMC Genomics</b> 15(1): 296</a> (IF2014 = 3.986)</li>
+<li>Tian F<sup>#</sup>, Gong J<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong>, et al. (2014) Overexpression of monoubiquitin improves photosynthesis in transgenic tobacco plants following high temperature stress. <a href="https://www.sciencedirect.com/science/article/pii/S0168945214000508?via%3Dihub"><b>Plant Science</b> 226: 92-100</a> (IF2014 = 3.607)</li>
+<li><strong><u><i>Zhang J</i></u></strong>, et al. (2014) Expression analysis of class I Clp gene families in poplar. <a href=""><b>Journal of Nuclear Agricultural Sciences</b> 28(5): 777-783</a> (in Chinese)</li>
+<li><strong><u><i>Zhang J</i></u></strong>, et al. (2014) Expression and functional analysis of CDPK gene family in <i>Populus</i>. <a href=""><b>Forest Research</b> 27(5):604-611</a> (in Chinese)
 
+</ul>
+</details>
+
+<details>
+  <summary> Before 2013 </summary>
+
+<ul>
+<li><strong><u><i>Zhang J</i></u></strong>, et al. (2013) Genome-wide analysis of the <i>Populus Hsp90</i> gene family reveals differential expression pattern, localization, and heat stress responses. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-532"><b>BMC Genomics</b> 14(1): 532</a> (IF2013 = 4.041)</li>
+<li>Tian F, Gong J, <strong><u><i>Zhang J</i></u></strong>, et al. (2013) Enhanced stability of thylakoid membrane proteins and antioxidant competence contribute to drought stress resistance in the <i>tasg1</i> wheat stay-green mutant. <a href="https://academic.oup.com/jxb/article-lookup/doi/10.1093/jxb/ert004"><b>Journal of Experimental Botany</b> 64(6): 1509-1520</a> (IF2013 = 5.794)</li>
+<li><strong><u><i>Zhang J</i></u></strong>, et al. (2012) Manipulation of monoubiquitin improves salt tolerance in transgenic tobacco. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1438-8677.2011.00512.x"><b>Plant Biology</b> 14(2):315-324</a> (IF2012 = 2.320)</li>
+<li>Li F, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2011) Drought tolerance through over-expression of the expansin gene TaEXPB23 in transgenic tobacco. <a href="https://www.sciencedirect.com/science/article/pii/S0176161711000629"><b>Journal of Plant Physiology</b> 168(9): 960-966</a> (IF2011 = 2.791)</li>
+<li>Wang G, Li F, <strong><u><i>Zhang J</i></u></strong>, et al. (2010) Overaccumulation of glycine betaine enhances tolerance of the photosynthetic apparatus to drought and heat stress in wheat. <a href="https://link.springer.com/article/10.1007/s11099-010-0006-7"><b>Photosynthetica</b> 48(1): 30-41</a> (IF2010 = 1.016)</li>
+<li>Wang G, ..., <strong><u><i>Zhang J</i></u></strong>, et al. (2010) Improvement of heat and drought photosynthetic tolerance in wheat by overaccumulation of glycinebetaine. <a href="https://link.springer.com/article/10.1007/s11816-010-0139-y"><b>Plant Biotechnology Reports</b> 4(3): 213-222</a> (IF2010 = 1.119)</li>
+<li>Guo Q<sup>#</sup>, <strong><u><i>Zhang J</i></u></strong><sup>#</sup>***, et al. (2008) Drought tolerance through overexpression of monoubiquitin in transgenic tobacco. <a href="https://www.sciencedirect.com/science/article/pii/S0176161707002738"><b>Journal of Plant Physiology</b> 165(16):1745-1755</a> (Co-first author) (IF2008 = 2.437)
+
+</ul>
+</details>
 
 
 ## Journals
@@ -157,7 +185,5 @@
 + [BMC Biotechnology](https://bmcbiotechnol.biomedcentral.com)
 + [Frontiers in Plant Science (*Research Topic:* **Biofuels and Bioenergy**)](https://www.frontiersin.org/research-topics/10844/biofuels-and-bioenergy)
 ![Biofuels and Bioenergy](https://www.frontiersin.org/image/researchtopic/10844 "Biofuels and Bioenergy"){:height="100px" width="100px"}
-
-
 
 
