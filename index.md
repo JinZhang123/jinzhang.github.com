@@ -147,7 +147,7 @@
 [![alt text](https://www.pnas.org/sites/default/files/highwire/pnas/111/2.cover-source.jpg "PNAS"){:height="100px" width="75px"}](https://www.pnas.org)
 [![alt text](https://media.springernature.com/w200/springer-static/cover-hires/journal/41588/51/7 "Nature Genetics"){:height="100px" width="75px"}](https://www.nature.com/ng/)
 [![alt text](https://media.springernature.com/w200/nature-static/assets/v1/image-assets/nbt-v35-n7.png "Nature Biotechnology"){:height="100px" width="75px"}](https://www.nature.com/nbt/)
-[![alt text](https://media.springernature.com/w300/springer-static/cover-hires/journal/41477/5/9 "Nature Plants"){:height="100px" width="75px"}](https://www.nature.com/nplants/)
+[![alt text](https://media.springernature.com/w200/springer-static/cover-hires/journal/41477/5/2 "Nature Plants"){:height="100px" width="75px"}](https://www.nature.com/nplants/)
 [![alt text](https://advances.sciencemag.org/content/advances/4/11/F1.medium.gif "Science Advances"){:height="100px" width="75px"}](https://advances.sciencemag.org/)
 [![alt text](http://www.plantcell.org/sites/default/files/styles/medium/public/highwire/plantcell/27/10.cover-source.jpg?itok=clxeNfos "Plant Cell"){:height="100px" width="75px"}](https://www.plantcell.org)
 [![alt text](http://www.plantphysiol.org/sites/default/files/styles/medium/public/highwire/plantphysiol/180/4.cover-source.jpg?itok=Aa0PD-CE "Plant Physiology"){:height="100px" width="75px"}](https://www.plantphysiol.org)
