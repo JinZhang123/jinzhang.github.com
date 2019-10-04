@@ -141,7 +141,7 @@
 
 ----
 ## Journals
-[![image](https://github.com/JinZhang123/test_jinzhang.github.com/raw/master/Image/Nature_cover.png = 75x100 "Nature")](https://www.nature.com)
+[![image](https://github.com/JinZhang123/test_jinzhang.github.com/raw/master/Image/Nature_cover.png "Nature"){:height="100px" width="75px"}](https://www.nature.com)
 [![image](https://github.com/JinZhang123/test_jinzhang.github.com/raw/master/Image/Science_cover.png "Science"){:height="100px" width="75px"}](https://www.sciencemag.org/)
 [![image](https://github.com/JinZhang123/test_jinzhang.github.com/raw/master/Image/Cell_cover.png "Cell"){:height="100px" width="75px"}](https://www.cell.com)
 [![image](https://github.com/JinZhang123/test_jinzhang.github.com/raw/master/Image/PNAS_cover.png "PNAS"){:height="100px" width="75px"}](https://www.pnas.org)
@@ -174,6 +174,8 @@
 [![image](https://github.com/JinZhang123/test_jinzhang.github.com/raw/master/Image/TiPS_cover.png "Trends in Plant Science"){:height="100px" width="75px"}](https://www.cell.com/trends/plant-science/home)
 [![image](https://github.com/JinZhang123/test_jinzhang.github.com/raw/master/Image/CoPB_cover.png "Current Opinion in Plant Biology"){:height="100px" width="75px"}](https://www.sciencedirect.com/journal/current-opinion-in-plant-biology)
 [![image](https://github.com/JinZhang123/test_jinzhang.github.com/raw/master/Image/NC_cover.svg "Nature Communications"){:height="30px"}](https://www.nature.com/ncomms)
+[![image](https://github.com/JinZhang123/test_jinzhang.github.com/raw/master/Image/NatCB_cover.svg "Communications Biology"){:height="30px"}](https://www.nature.com/commsbio/)
+[<img src="https://github.com/JinZhang123/test_jinzhang.github.com/raw/master/Image/NC_cover.svg" alt="Nature Communications" height="30px"/>](https://www.nature.com/ncomms)
 [![image](https://github.com/JinZhang123/test_jinzhang.github.com/raw/master/Image/NatCB_cover.svg "Communications Biology"){:height="30px"}](https://www.nature.com/commsbio/)
 
 <table>
