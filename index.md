@@ -173,16 +173,14 @@
 [![alt text](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/dnaresearch/Issue/26/4/2/m_dnares_26_4cover.png?Expires=1570228907&Signature=Du3ytdoiI1XtEzyMjzPyIVgzi3vHYxl1kQw8N6xl~Xf3NdfPASIKyXcyNpZBG8GqEAncGYhsVYXmwPbPyuNdR0uTgxZxhczRT6sTcgHnEgfI45CYrnV3Tc3T7d3zpI-Lsx7dYt9gD5aZqKofxI~JITHwJBrcD004r5vUXwgn2i1Ha~wJ6QJJaHP7KarNkkh0N8WAou1wmCOCIx1dSnFiJ1JAMZtdpOmh1mV5pj2TwfMnC7gISm4oPPKd2yuTJXOklHnjcwNHpMIuNGR3TQRzhiZVCixk~TIHKKPVbglyApgMPA2couzkN3kjy2SzvO9Y5TmcXky8HgTDLGsgNv1sdg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA "DNA Research"){:height="100px" width="75px"}](https://academic.oup.com/dnaresearch)
 [![alt text](https://pbs.twimg.com/media/ECsq2AgXYAESxSk.jpg "Trends in Plant Science"){:height="100px" width="75px"}](https://www.cell.com/trends/plant-science/home)
 [![alt text](https://ars.els-cdn.com/content/image/X13695266.jpg "Current Opinion in Plant Biology"){:height="100px" width="75px"}](https://www.sciencedirect.com/journal/current-opinion-in-plant-biology)
-
 [![alt text](https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa6f7c33d1ba82f8cce520a556a024c0.svg "Nature Communications"){:height="30px"}](https://www.nature.com/ncomms)
 [![alt text](https://media.springernature.com/full/nature-cms/uploads/product/commsbio/header-4825c736f2454a5e95e350335a4dbf72.svg "Communications Biology"){:height="30px"}](https://www.nature.com/commsbio/)
-
 
 <table>
   <tr>
     <td><a href="https://bmcgenomics.biomedcentral.com/">BMC Genomics</a></td>
     <td><a href="https://www.frontiersin.org/journals/plant-science/">Frontiers in Plant Science</a></td>
-    <td><a href="https://www.springer.com/life+sciences/forestry/journal/11295">Tree Genetics & Genomes</a></td>
+    <td><a href="https://link.springer.com/journal/468">Trees</a></td>
    </tr>    
 </table>
 
@@ -191,4 +189,6 @@
 + [BMC Plant Biology](https://bmcplantbiol.biomedcentral.com)
 + [BMC Biotechnology](https://bmcbiotechnol.biomedcentral.com)
 + [Frontiers in Plant Science (*Research Topic:* **Biofuels and Bioenergy**)](https://www.frontiersin.org/research-topics/10844/biofuels-and-bioenergy)
+![Biofuels and Bioenergy](https://www.frontiersin.org/image/researchtopic/10844 "Biofuels and Bioenergy"){:height="100px" width="100px"}
+
 
