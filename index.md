@@ -189,8 +189,6 @@
 + [BMC Plant Biology](https://bmcplantbiol.biomedcentral.com)
 + [BMC Biotechnology](https://bmcbiotechnol.biomedcentral.com)
 + [Frontiers in Plant Science (*Research Topic:* **Biofuels and Bioenergy**)](https://www.frontiersin.org/research-topics/10844/biofuels-and-bioenergy)
-![Biofuels and Bioenergy](https://www.frontiersin.org/image/researchtopic/10844 "Biofuels and Bioenergy"){:height="100px" width="100px"}
-
 
 ----
 ## Links
