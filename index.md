@@ -173,8 +173,8 @@
 [<img src="https://github.com/JinZhang123/test_jinzhang.github.com/raw/master/Image/DNAr_cover.png" alt="DNA Research" height="100px" width="75px"/>](https://academic.oup.com/dnaresearch)
 [<img src="https://github.com/JinZhang123/test_jinzhang.github.com/raw/master/Image/TiPS_cover.png" alt="Trends in Plant Science" height="100px" width="75px"/>](https://www.cell.com/trends/plant-science/home)
 [<img src="https://github.com/JinZhang123/test_jinzhang.github.com/raw/master/Image/CoPB_cover.png" alt="Current Opinion in Plant Biology" height="100px" width="75px"/>](https://www.sciencedirect.com/journal/current-opinion-in-plant-biology)
-[<img src="https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa7f836a57fbef4ef15c560ab4ce386f.svg" alt="Nature Communications" height="100px" width="75px"/>](https://www.nature.com/ncomms)
-[<img src="https://media.springernature.com/full/nature-cms/uploads/product/commsbio/header-4825c736f2454a5e95e350335a4dbf72.svg" alt="Communications Biology" height="100px" width="75px"/>](https://www.nature.com/commsbio/)
+[<img src="https://media.springernature.com/full/nature-cms/uploads/product/ncomms/header-aa7f836a57fbef4ef15c560ab4ce386f.svg" alt="Nature Communications" height="30px" />](https://www.nature.com/ncomms)
+[<img src="https://media.springernature.com/full/nature-cms/uploads/product/commsbio/header-4825c736f2454a5e95e350335a4dbf72.svg" alt="Communications Biology" height="30px" />](https://www.nature.com/commsbio/)
 
 <table>
   <tr>
