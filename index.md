@@ -179,7 +179,8 @@
 <table>
   <tr>
     <td><a href="https://bmcgenomics.biomedcentral.com/">BMC Genomics</a></td>
-    <td><a href="https://www.frontiersin.org/journals/plant-science/">Front in Plant Sci</a></td>
+    <td><a href="https://www.frontiersin.org/journals/plant-science/">Front Plant Sci</a></td>
+    <td><a href="https://onlinelibrary.wiley.com/journal/24754455/">Plant Direct</a></td>
     <td><a href="https://link.springer.com/journal/468">Trees</a></td>
     <td><a href="https://academic.oup.com/nargab?searchresult=1">NAR GaB</a></td>
    </tr>    
